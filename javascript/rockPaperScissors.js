@@ -7,6 +7,7 @@ const getUserChoice = userInput => {
   }
 };
 
+//This is a comment
 const getComputerChoice = () => {
   const num = Math.floor(Math.random() * 3);
   switch(num){
