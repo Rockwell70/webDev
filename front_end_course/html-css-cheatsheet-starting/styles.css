@@ -9,8 +9,27 @@ body {
   background-color: CornSilk;
   size: landscape;
 }
-table, td {
-  border: solid black 0px;
+
+table {
+  border: solid black 1px;
+  border-collapse: collapse;
+  position: static;
+  table-layout: fixed;
+  width: 50%;
+}
+
+td {
+  border: solid black 1px;
+  color: black;
+  /*column-width: 1000px;*/
+  background-color: white;
+  font-size: medium;
+  font-family: Tahoma, sans-serif;
+  height: 40px;
+  margin-top: 5px;
+  text-align: center;
+  vertical-align: central;
+  /*width: 255%;*/
 }
 
 header {
@@ -22,6 +41,7 @@ header {
   text-align: center;
   width: 100%;
 
+
 }
 .mgr-table {
   alignment: right;
@@ -29,22 +49,8 @@ header {
   background-color: #00308F;
   font-size: medium;
   font-family: Tahoma, sans-serif;
-  margin: auto 100px 50px 950px;
+  margin: 5px 100px 50px 750px;
   table-layout: fixed;
-  position: fixed;
-  text-align: center;
-  vertical-align: central;
-  width: 40%;
-}
-
-.mgr-table #mgr_titles {
-  color: black;
-  column-width: 1000px;
-  background-color: white;
-  font-size: medium;
-  font-family: Tahoma, sans-serif;
-  height: 40px;
-  margin-top: 5px;
   text-align: center;
   vertical-align: central;
 }
@@ -52,17 +58,42 @@ header {
 .techprof-table{
   alignment: right;
   color: black;
-  background-color: LightGrey;
+  background-color: rgb(166, 166, 166);
   font-size: medium;
   font-family: Tahoma, sans-serif;
-  margin: 125px 100px 50px 550px;
+  margin: 25px 100px 50px 650px;
+  table-layout: fixed;
+  text-align: center;
+  vertical-align: central;
+}
+
+.busprof-table {
+  alignment: right;
+  color: black;
+  background-color: rgb(143, 170, 220);
+  font-size: medium;
+  font-family: Tahoma, sans-serif;
+  margin: 35px 350px 50px 650px;
+  table-layout: auto;
+  text-align: center;
+  vertical-align: central;
+  width: 37%;
+}
+
+
+.sales-table{
+  alignment: right;
+  color: black;
+  background-color: rgb(146, 208, 80);
+  font-size: medium;
+  font-family: Tahoma, sans-serif;
+  margin: 45px 100px 50px 870px;
   table-layout: fixed;
   position: fixed;
   text-align: center;
   vertical-align: central;
-  width: 40%;
+  width: 30%;
 }
-
 /* Navigation */
 
 .navigation {
