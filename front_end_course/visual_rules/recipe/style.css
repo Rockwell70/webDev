@@ -1,0 +1,31 @@
+h1,
+h2,
+p,
+li {
+  font-family: Helvetica;
+}
+
+img {
+  height: 150px;
+}
+
+.description {
+  font-size: 20px;
+}
+
+/*use # when selecting id elements*/
+#cook-time {
+  font-weight: bold;
+}
+
+ingredients li{
+  list-style: square;
+}
+
+p.time {
+  color: gray
+}
+/*use '.' for classes*/
+.external-link {
+  color: SeaGreen;
+}

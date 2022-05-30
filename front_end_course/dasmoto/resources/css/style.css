@@ -1,0 +1,54 @@
+h1 {
+    background-image: url(../images/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: khaki;
+}
+
+#brush {
+    background-color: MediumSpringGreen;
+    color: white;
+    font-size: 32px;
+}
+
+#frame {
+    background-color: LightCoral;
+    color: white;
+    font-size: 32px;
+}
+
+#frame {
+    background-color: skyblue;
+    color: white;
+    font-size: 32px;
+}
+
+.price {
+    color: blue;
+    font-family: "Helvetica", sans-serif;
+    font-weight: bold;
+
+}
+h1, h2, h3, p {
+    font-family: "Helvetica", sans-serif;
+}
+.item h2 {
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.item h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+}
