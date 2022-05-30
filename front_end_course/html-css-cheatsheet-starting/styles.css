@@ -27,7 +27,7 @@ header {
 table {
   border: solid black 1px;
   border-collapse: collapse;
-  position: fixed;
+  position: sticky;
 }
 
 table td {
@@ -50,10 +50,10 @@ table td {
   font-size: medium;
   font-family: Tahoma, sans-serif;
   horiz-align: right;
-  margin: 5px 10px 50px 1000px;
+  margin: 5px 10px 50px 550px;
   /*margin-left: 1050px;*/
-  max-width: 900px;
-  min-width: 900px;
+  max-width: 800px;
+  min-width: 800px;
   table-layout: fixed;
   text-align: center;
   width: 10%;
@@ -64,9 +64,9 @@ table td {
   background-color: rgb(166, 166, 166);
   font-size: medium;
   font-family: Tahoma, sans-serif;
-  margin: 25px 10px 50px 890px;
-  max-width: 900px;
-  min-width: 900px;
+  margin: 25px 10px 50px 450px;
+  max-width: 800px;
+  min-width: 800px;
   table-layout: fixed;
   text-align: center;
   vertical-align: central;
@@ -78,9 +78,9 @@ table td {
   background-color: rgb(143, 170, 220);
   font-size: medium;
   font-family: Tahoma, sans-serif;
-  margin: 35px 100px 50px 890px;
-  max-width: 675px;
-  min-width: 675px;
+  margin: 35px 100px 50px 450px;
+  max-width: 600px;
+  min-width: 600px;
   table-layout: fixed;
   text-align: center;
   vertical-align: central;
@@ -93,9 +93,9 @@ table td {
   background-color: rgb(146, 208, 80);
   font-size: medium;
   font-family: Tahoma, sans-serif;
-  margin: 45px 100px 50px 890px;
-  max-width: 675px;
-  min-width: 675px;
+  margin: 45px 100px 50px 450px;
+  max-width: 600px;
+  min-width: 600px;
   table-layout: fixed;
   text-align: center;
   vertical-align: central;
