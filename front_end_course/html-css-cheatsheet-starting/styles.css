@@ -7,17 +7,19 @@
 }
 
 body {
-  background-color: CornSilk;
+  background-color: white;
   display: block;
   size: landscape;
 }
 
 header {
   alignment: center;
-  background-color: ivory;
-  font-family: Cambria, Georgia, serif;
+  background-color: white;
+  color: rgb(0, 138, 191);
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   /*margin: 0 auto;*/
   position: sticky;
+  size: 24px;
   text-align: center;
   width: 100%;
 
@@ -38,7 +40,7 @@ table td {
   font-size: medium;
   font-family: Tahoma, sans-serif;
   height: 40px;
-  margin-top: 5px;
+  margin-top: 15px;
   text-align: center;
   vertical-align: central;
 }
@@ -50,7 +52,7 @@ table td {
   font-size: medium;
   font-family: Tahoma, sans-serif;
   horiz-align: right;
-  margin: 5px 10px 50px 550px;
+  margin: 50px 10px 50px 650px;
   /*margin-left: 1050px;*/
   max-width: 800px;
   min-width: 800px;
@@ -64,7 +66,7 @@ table td {
   background-color: rgb(166, 166, 166);
   font-size: medium;
   font-family: Tahoma, sans-serif;
-  margin: 25px 10px 50px 450px;
+  margin: 35px 10px 50px 550px;
   max-width: 800px;
   min-width: 800px;
   table-layout: fixed;
@@ -78,7 +80,7 @@ table td {
   background-color: rgb(143, 170, 220);
   font-size: medium;
   font-family: Tahoma, sans-serif;
-  margin: 35px 100px 50px 450px;
+  margin: 35px 100px 50px 550px;
   max-width: 600px;
   min-width: 600px;
   table-layout: fixed;
@@ -93,7 +95,7 @@ table td {
   background-color: rgb(146, 208, 80);
   font-size: medium;
   font-family: Tahoma, sans-serif;
-  margin: 45px 100px 50px 450px;
+  margin: 45px 100px 50px 550px;
   max-width: 600px;
   min-width: 600px;
   table-layout: fixed;
