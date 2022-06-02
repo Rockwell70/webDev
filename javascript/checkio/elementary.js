@@ -1,11 +1,12 @@
-import assert from "node:assert";
+// import assert from "node:assert";
 
 const isAllUpper = (text) =>{
-    if (text) {
-        return text.toUpperCase() === text;
-    } else {
+    if (! text) {
         return true;
+    } else {
+        return text.toUpperCase() === text;
     }
+
 };
 
 
@@ -16,8 +17,8 @@ console.log(isAllUpper('all lower'));
 console.assert(isAllUpper('ALL UPPER') === true, 'Error');
 console.assert(isAllUpper('all lower') === false, 'Error');
 console.assert(isAllUpper('ALL mixed') === false);
-console.assert(isAllUpper('') === false);
-assert.equal(isAllUpper('ALL UPPER'), true);
+console.assert(isAllUpper('') === true);
+// assert.equal(isAllUpper('ALL UPPER'), true);
 // assert.equal(isAllUpper('all lower'), false);
 // assert.equal(isAllUpper('mixed UPPER and lower'), false);
 // assert.equal(isAllUpper(''), true);
