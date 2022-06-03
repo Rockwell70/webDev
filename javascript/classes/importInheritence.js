@@ -1,5 +1,6 @@
 //testing importing a module
-import HospitalEmployee from "./inheritence.js"
+const {HospitalEmployee} = require("./inheritence.js")
 
 const me = new HospitalEmployee('William');
-console.log(me);
+me.takeVacationDays(12);
+console.log(`${me.name} has ${me.remainingVacationDays} vacation days remaining.`);
