@@ -21,11 +21,16 @@ class Media {
         this._ratings.push(rating);
     }
 
-    toggleCheckOutStatus(status) {
-        this._isCheckOut = status;
+    toggleCheckOutStatus() {
+        this._isCheckOut = !this._isCheckOut;
     }
 
-    getAverageRating(title) {
+    getAverageRating() {
+        const sumRatings = this.ratings.reduce((previousValue, currentValue) => {
+            return previousValue + currentValue;
+        }, 0)
+
+        return sumRatings / this.ratings.length;
 
     }
 }
@@ -80,5 +85,13 @@ class CD extends (Media) {
 
 const newMovie = new Movie('William B', 'Sammy', 98);
 
-newMovie.toggleCheckOutStatus(true);
+newMovie.addRating(1);
+newMovie.addRating(3);
+newMovie.addRating(5);
+newMovie.addRating(7);
+
+console.log(newMovie.ratings);
+console.log(newMovie.getAverageRating());
+console.log(newMovie.isCheckOut);
+newMovie.toggleCheckOutStatus();
 console.log(newMovie.isCheckOut);
