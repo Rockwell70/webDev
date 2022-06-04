@@ -33,6 +33,10 @@ class Media {
         return sumRatings / this.ratings.length;
 
     }
+
+    getBestRating() {
+        return Math.max.apply(null, this.ratings);
+    }
 }
 
 class Book extends (Media) {
@@ -92,6 +96,7 @@ newMovie.addRating(7);
 
 console.log(newMovie.ratings);
 console.log(newMovie.getAverageRating());
+console.log(newMovie.getBestRating());
 console.log(newMovie.isCheckOut);
 newMovie.toggleCheckOutStatus();
 console.log(newMovie.isCheckOut);
