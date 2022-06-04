@@ -1,3 +1,10 @@
+/**
+ * @fileoverview This file contains a media class
+ * and subclasses of different types of media.
+ * It also contains a class "holder" that acts
+ * as a container for the subclass instances.
+ */
+
 class Media {
     constructor(title) {
         this._title = title;
@@ -30,7 +37,7 @@ class Media {
             return previousValue + currentValue;
         }, 0)
 
-        return sumRatings / this.ratings.length;
+        return (sumRatings / this.ratings.length).toFixed(1);
 
     }
 
@@ -87,16 +94,55 @@ class CD extends (Media) {
     }
 }
 
-const newMovie = new Movie('William B', 'Sammy', 98);
+const newMovie = new Movie('Speed', 'Jan de Bont', 116);
+const historyOfEverything = new Book('Bill Bryson', 'A Short History of Nearly Everything', 544)
 
-newMovie.addRating(1);
-newMovie.addRating(3);
-newMovie.addRating(5);
-newMovie.addRating(7);
+//
+// historyOfEverything.toggleCheckOutStatus();
+// console.log(`The book ${historyOfEverything.title} is checked out: ${historyOfEverything.isCheckOut}`);
+//
+// historyOfEverything.addRating(4);
+// historyOfEverything.addRating(5);
+// historyOfEverything.addRating(5);
+//
+// console.log(`The book ${historyOfEverything.title} has average rating of ${historyOfEverything.getAverageRating()}`);
+//
+// console.log(newMovie.ratings);
+// console.log(newMovie.getAverageRating());
+// console.log(newMovie.getBestRating());
+// console.log(newMovie.isCheckOut);
+// newMovie.toggleCheckOutStatus();
+// console.log(newMovie.isCheckOut);
 
-console.log(newMovie.ratings);
-console.log(newMovie.getAverageRating());
-console.log(newMovie.getBestRating());
-console.log(newMovie.isCheckOut);
-newMovie.toggleCheckOutStatus();
-console.log(newMovie.isCheckOut);
+class MediaHolder {
+    /**
+     * This class holds all types of media
+     * */
+    constructor(name) {
+        this._name = name;
+        this._items = [];
+    }
+
+    get name() {
+        return this._name;
+    }
+
+    get items() {
+        return this._items;
+    }
+
+    addItem(thing) {
+        this.items.push(thing);
+    }
+
+    printItems() {
+        this.items.forEach(item =>{
+            console.log(`This is ${item.title}.`)
+        })
+    }
+}
+
+const holder = new MediaHolder(newMovie);
+holder.addItem(historyOfEverything);
+holder.addItem(newMovie);
+holder.printItems();
