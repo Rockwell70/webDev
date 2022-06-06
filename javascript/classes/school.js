@@ -3,27 +3,30 @@
  * and subclasses of different types of schools.
  */
 
-class Media {
-    constructor(title) {
-        this._title = title;
-        this._isCheckOut = false;
-        this._ratings = [];
+class School {
+    constructor(name, level) {
+        this._name = name;
+        this._level = level;
+        this._numberOfStudents = [];
     }
 
-    get title() {
-        return this._title;
+    get name() {
+        return this._name;
     }
 
-    get isCheckOut() {
-        return this._isCheckOut;
+    get level() {
+        const levels = ['primary', 'middle', 'high'];
+        return levels.includes(this._level) ?
+            this._level :
+            console.log('Incorrect level')
     }
 
-    get ratings() {
-        return this._ratings;
+    get numberOfStudents() {
+        return this._numberOfStudents;
     }
 
     addRating(rating) {
-        this._ratings.push(rating);
+        this._numberOfStudents.push(rating);
     }
 
     toggleCheckOutStatus() {
@@ -31,22 +34,22 @@ class Media {
     }
 
     getAverageRating() {
-        const sumRatings = this.ratings.reduce((previousValue, currentValue) => {
+        const sumnumberOfStudents = this.numberOfStudents.reduce((previousValue, currentValue) => {
             return previousValue + currentValue;
         }, 0)
 
-        return (sumRatings / this.ratings.length).toFixed(1);
+        return (sumnumberOfStudents / this.numberOfStudents.length).toFixed(1);
 
     }
 
     getBestRating() {
-        return Math.max.apply(null, this.ratings);
+        return Math.max.apply(null, this.numberOfStudents);
     }
 }
 
-class Book extends (Media) {
-    constructor(title, author, pages) {
-        super(title);
+class Book extends (School) {
+    constructor(name, author, pages) {
+        super(name);
         this._author = author;
         this._pages = pages;
     }
@@ -60,9 +63,9 @@ class Book extends (Media) {
     }
 }
 
-class Movie extends (Media) {
-    constructor(title, director, runTime) {
-        super(title);
+class Movie extends (School) {
+    constructor(name, director, runTime) {
+        super(name);
         this._director = director;
         this._runTime = runTime;
     }
@@ -76,9 +79,9 @@ class Movie extends (Media) {
     }
 }
 
-class CD extends (Media) {
-    constructor(title, artist, songs) {
-        super(title);
+class CD extends (School) {
+    constructor(name, artist, songs) {
+        super(name);
         this._artist = artist;
         this._songs = songs;
     }
@@ -92,55 +95,24 @@ class CD extends (Media) {
     }
 }
 
+const school = new School('William B', 'low');
+console.log(school.level);
 const newMovie = new Movie('Speed', 'Jan de Bont', 116);
 const historyOfEverything = new Book('Bill Bryson', 'A Short History of Nearly Everything', 544)
 
 //
 // historyOfEverything.toggleCheckOutStatus();
-// console.log(`The book ${historyOfEverything.title} is checked out: ${historyOfEverything.isCheckOut}`);
+// console.log(`The book ${historyOfEverything.name} is checked out: ${historyOfEverything.isCheckOut}`);
 //
 // historyOfEverything.addRating(4);
 // historyOfEverything.addRating(5);
 // historyOfEverything.addRating(5);
 //
-// console.log(`The book ${historyOfEverything.title} has average rating of ${historyOfEverything.getAverageRating()}`);
+// console.log(`The book ${historyOfEverything.name} has average rating of ${historyOfEverything.getAverageRating()}`);
 //
-// console.log(newMovie.ratings);
+// console.log(newMovie.numberOfStudents);
 // console.log(newMovie.getAverageRating());
 // console.log(newMovie.getBestRating());
 // console.log(newMovie.isCheckOut);
 // newMovie.toggleCheckOutStatus();
 // console.log(newMovie.isCheckOut);
-
-class MediaHolder {
-    /**
-     * This class holds all types of media
-     * */
-    constructor(name) {
-        this._name = name;
-        this._items = [];
-    }
-
-    get name() {
-        return this._name;
-    }
-
-    get items() {
-        return this._items;
-    }
-
-    addItem(thing) {
-        this.items.push(thing);
-    }
-
-    printItems() {
-        this.items.forEach(item =>{
-            console.log(`This is ${item.title}.`)
-        })
-    }
-}
-
-const holder = new MediaHolder(newMovie);
-holder.addItem(historyOfEverything);
-holder.addItem(newMovie);
-holder.printItems();
