@@ -29,78 +29,15 @@ class School {
         this._numberOfStudents = num;
     }
 
-    addRating(rating) {
-        this._numberOfStudents.push(rating);
-    }
 
-    toggleCheckOutStatus() {
-        this._isCheckOut = !this._isCheckOut;
-    }
+    quickFacts() {
+        console.log(`Quick Facts:\nName: ${this._name}\nLevel: ${this._level}\nStudents: ${this._numberOfStudents}`);
 
-    getAverageRating() {
-        const sumnumberOfStudents = this.numberOfStudents.reduce((previousValue, currentValue) => {
-            return previousValue + currentValue;
-        }, 0)
-
-        return (sumnumberOfStudents / this.numberOfStudents.length).toFixed(1);
-
-    }
-
-    getBestRating() {
-        return Math.max.apply(null, this.numberOfStudents);
     }
 }
-
-class Book extends (School) {
-    constructor(name, author, pages) {
-        super(name);
-        this._author = author;
-        this._pages = pages;
-    }
-
-    get author() {
-        return this._author;
-    }
-
-    get pages() {
-        return this._pages;
-    }
-}
-
-class Movie extends (School) {
-    constructor(name, director, runTime) {
-        super(name);
-        this._director = director;
-        this._runTime = runTime;
-    }
-
-    get director() {
-        return this._director;
-    }
-
-    get runTime() {
-        return this._runTime;
-    }
-}
-
-class CD extends (School) {
-    constructor(name, artist, songs) {
-        super(name);
-        this._artist = artist;
-        this._songs = songs;
-    }
-
-    get artist() {
-        return this._artist;
-    }
-
-    get songs() {
-        return this._songs;
-    }
-}
-
 const school = new School('William B', 'middle');
 console.log(school);
 console.log(school.level);
 school.numberOfStudents = 90;
-console.log(school);
+console.log(school.numberOfStudents);
+school.quickFacts();
