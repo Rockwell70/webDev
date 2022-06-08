@@ -5,9 +5,9 @@
 
 class School {
     constructor(name, level) {
-        this._name = name;
+        this._name = String(name);
         this._level = level;
-        this._numberOfStudents = 0;
+        this._numberOfStudents = Number;
     }
 
     get name() {
@@ -17,46 +17,62 @@ class School {
     get level() {
         const levels = ['primary', 'middle', 'high'];
         return levels.includes(this._level) ?
-            this._level : new Error ('Incorrect level');
+            this._level :
+            console.log('Incorrect level: primary, middle, or high');
     }
 
+    /**@return {number}*/
     get numberOfStudents() {
         return this._numberOfStudents;
     }
 
+    //**@param {number} number of students to add
+    // @return {number}* number of students entered/
     set numberOfStudents(num) {
-        return num ?
-            this._numberOfStudents = num :
-            this._numberOfStudents;
+        this._numberOfStudents = num;
     }
 
+
     quickFacts() {
-        console.log(`${this._name} is a ${this._level} school with ${this._numberOfStudents} students.`);
+        console.log(`Quick Facts:\nName: ${this._name}\nLevel: ${this._level}\nStudents: ${this._numberOfStudents}`);
+
+    }
+
+    static pickSubstituteTeacher() {
+
     }
 }
 
+/**A subclass of School.
+ * Has additional property: pickupPolicy*/
+class Primary extends (School) {
+    constructor(name, level, pickupPolicy) {
+        super(name, level);
+        /** @param {string=} pickupPolicy */
+        this._pickupPolicy = pickupPolicy;
+    }
 
-const school = new School('William B', 'low');
+    get pickupPolicy() {
+        return this._pickupPolicy;
+    }
+
+}
+
+/**A subclass of School with no additional
+ * methods or properties.*/
+class Middle extends (School) {
+    constructor(name, level) {
+        super(name, level);
+    }
+}
+
+const school = new School('William B', 'middle');
+console.log(school);
 console.log(school.level);
+school.numberOfStudents = 90;
 console.log(school.numberOfStudents);
-school.numberOfStudents = 2300;
 school.quickFacts();
 
+const p = new Primary('Sammy', 'low', 'after 3');
+console.log(p.pickupPolicy);
 
-
-//
-// historyOfEverything.toggleCheckOutStatus();
-// console.log(`The book ${historyOfEverything.name} is checked out: ${historyOfEverything.isCheckOut}`);
-//
-// historyOfEverything.addRating(4);
-// historyOfEverything.addRating(5);
-// historyOfEverything.addRating(5);
-//
-// console.log(`The book ${historyOfEverything.name} has average rating of ${historyOfEverything.getAverageRating()}`);
-//
-// console.log(newMovie.numberOfStudents);
-// console.log(newMovie.getAverageRating());
-// console.log(newMovie.getBestRating());
-// console.log(newMovie.isCheckOut);
-// newMovie.toggleCheckOutStatus();
-// console.log(newMovie.isCheckOut);
