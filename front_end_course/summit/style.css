@@ -1,0 +1,71 @@
+a {
+    color: #2176FF;
+    cursor: pointer;
+
+}
+
+.nav-link:hover {
+    color: DarkOrchid;
+}
+
+.btn {
+    color: White;
+    background-color:#2176FF;
+    font-size: 17px;
+    line-height: 17px;
+    padding: 9px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px;
+    border: 2px solid rgb(28, 110, 164);
+    display: inline-block;
+    transition: margin-right 2s, color 1s;;
+}
+
+.btn:hover {
+    background: #00308F;
+    color: White;
+    font-size: 20px;
+}
+.btn:active {
+    background: #144E75; }
+
+.activity {
+    border: 1px solid #466995;
+}
+
+.activity:hover {
+    background: white;
+    color: #2176FF;
+}
+
+.activity:active {
+    font-size: 55px;
+
+}
+
+.blink {
+    animation: blink 3s infinite;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+        transform: scale(2);
+    }
+    51% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
