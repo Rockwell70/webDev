@@ -3,11 +3,16 @@
  * and subclasses of different types of schools.
  */
 
+/**
+ * @param {String} name
+ * @param {String} level
+ * @param {Number} numberOfStudents
+ */
 class School {
-    constructor(name, level) {
+    constructor(name, level, numberOfStudents) {
         this._name = String(name);
         this._level = level;
-        this._numberOfStudents = Number;
+        this._numberOfStudents = Number(numberOfStudents);
     }
 
     get name() {
@@ -29,7 +34,9 @@ class School {
     //**@param {number} number of students to add
     // @return {number}* number of students entered/
     set numberOfStudents(num) {
-        this._numberOfStudents = num;
+        return typeof num === 'number' ?
+            this._numberOfStudents = num:
+            console.log('Invalid input: numberOfStudents must be set to a Number.')
     }
 
 
@@ -46,8 +53,8 @@ class School {
 /**A subclass of School.
  * Has additional property: pickupPolicy*/
 class Primary extends (School) {
-    constructor(name, level, pickupPolicy) {
-        super(name, level);
+    constructor(name, level,numberOfStudents, pickupPolicy) {
+        super(name, level, numberOfStudents);
         /** @param {string=} pickupPolicy */
         this._pickupPolicy = pickupPolicy;
     }
@@ -61,18 +68,36 @@ class Primary extends (School) {
 /**A subclass of School with no additional
  * methods or properties.*/
 class Middle extends (School) {
-    constructor(name, level) {
-        super(name, level);
+    constructor(name, level, numberOfStudents) {
+        super(name, level, numberOfStudents);
     }
 }
 
-const school = new School('William B', 'middle');
+/**A subclass of School with one additional
+ * property.*/
+class High extends (School) {
+    constructor(name, level, numberOfStudents) {
+        super(name, level, numberOfStudents);
+        /** @param {Array, string} sportsTeams */
+        this._sportsTeams = [];
+    }
+
+    get teams(){
+        return this._sportsTeams;
+    }
+
+    addTeam(team) {
+        this._sportsTeams.push(team);
+    }
+}
+
+const school = new School('William B', 'middle', 8);
 console.log(school);
 console.log(school.level);
-school.numberOfStudents = 90;
+school.numberOfStudents = 900;
 console.log(school.numberOfStudents);
 school.quickFacts();
-
-const p = new Primary('Sammy', 'low', 'after 3');
-console.log(p.pickupPolicy);
+//
+// const p = new Primary('Sammy', 'low', 'after 3');
+// console.log(p.pickupPolicy);
 
