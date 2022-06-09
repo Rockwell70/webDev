@@ -41,20 +41,23 @@ class School {
 
 
     quickFacts() {
-        console.log(`Quick Facts:\nName: ${this._name}\nLevel: ${this._level}\nStudents: ${this._numberOfStudents}`);
+        console.log(`${this._name} educates ${this._numberOfStudents} students at the ${this._level} scholl level`);
 
     }
-
-    static pickSubstituteTeacher() {
-
+    //**@param {array string} number of students to add
+    // @return {string} number of students entered*/
+    static pickSubstituteTeacher(substituteTeachers) {
+        const num = Math.floor(Math.random() * (substituteTeachers.length));
+        return substituteTeachers[num];
     }
+
 }
 
 /**A subclass of School.
  * Has additional property: pickupPolicy*/
 class Primary extends (School) {
-    constructor(name, level,numberOfStudents, pickupPolicy) {
-        super(name, level, numberOfStudents);
+    constructor(name, numberOfStudents, pickupPolicy) {
+        super(name, 'primary', numberOfStudents);
         /** @param {string=} pickupPolicy */
         this._pickupPolicy = pickupPolicy;
     }
@@ -69,17 +72,17 @@ class Primary extends (School) {
  * methods or properties.*/
 class Middle extends (School) {
     constructor(name, level, numberOfStudents) {
-        super(name, level, numberOfStudents);
+        super(name, 'middle', numberOfStudents);
     }
 }
 
 /**A subclass of School with one additional
  * property.*/
 class High extends (School) {
-    constructor(name, level, numberOfStudents) {
-        super(name, level, numberOfStudents);
+    constructor(name, numberOfStudents, sportsTeams) {
+        super(name, 'high', numberOfStudents);
         /** @param {Array, string} sportsTeams */
-        this._sportsTeams = [];
+        this._sportsTeams = sportsTeams;
     }
 
     get teams(){
@@ -91,12 +94,14 @@ class High extends (School) {
     }
 }
 
-const school = new School('William B', 'middle', 8);
+const school = new School('William B', 'primary', 8);
 console.log(school);
 console.log(school.level);
 school.numberOfStudents = 900;
 console.log(school.numberOfStudents);
 school.quickFacts();
+const sub = School.pickSubstituteTeacher(['William', 'Sammy', 'Bobby'])
+console.log(sub)
 //
 // const p = new Primary('Sammy', 'low', 'after 3');
 // console.log(p.pickupPolicy);
