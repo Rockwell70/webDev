@@ -41,7 +41,7 @@ class School {
 
 
     quickFacts() {
-        console.log(`${this._name} educates ${this._numberOfStudents} students at the ${this._level} scholl level`);
+        console.log(`${this._name} educates ${this._numberOfStudents} students at the ${this._level} school level`);
 
     }
     //**@param {array string} number of students to add
@@ -94,14 +94,16 @@ class High extends (School) {
     }
 }
 
-const school = new School('William B', 'primary', 8);
-console.log(school);
-console.log(school.level);
-school.numberOfStudents = 900;
-console.log(school.numberOfStudents);
-school.quickFacts();
+const hs = new High('William B', 1500, ['rowing', 'rugby'])
+const ps = new Primary('Sammy P', 999, '3:30 or later')
+ps.quickFacts();
+hs.numberOfStudents = 900;
+console.log(hs.numberOfStudents);
+hs.quickFacts();
 const sub = School.pickSubstituteTeacher(['William', 'Sammy', 'Bobby'])
 console.log(sub)
+hs.addTeam('chess')
+console.log(`${hs.name} has ${hs.teams[0]} & ${hs.teams[2]} teams.`)
 //
 // const p = new Primary('Sammy', 'low', 'after 3');
 // console.log(p.pickupPolicy);
