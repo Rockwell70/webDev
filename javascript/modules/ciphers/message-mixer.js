@@ -1,8 +1,9 @@
 // Import the functions from encryptors.js here.
 const encryptors = require ('./encryptors');
 
-// User Input / Output Logic
-/////////////////////////////////////////////
+// const {}
+
+
 
 const encryptionMethod = getEncryptionMethod();
 process.stdin.on('data', (userInput) => {
