@@ -1,5 +1,5 @@
 // Import the encryptors functions here.
-
+const encryptors = require ('./encryptors');
 
 const encodeMessage = (str) => {
     // Use the encryptor functions here.
