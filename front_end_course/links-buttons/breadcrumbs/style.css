@@ -5,7 +5,8 @@
 
 .breadcrumb li + li::before {
     padding: 10px;
-    content: ">";
+    list-style-image: url(fire.png);
+    content: ">>";
 
 }
 
@@ -18,3 +19,4 @@
     color: red;
 
 }
+
