@@ -1,5 +1,5 @@
 //testing importing a module
-const {HospitalEmployee} = require("./inheritence.js")
+const {HospitalEmployee} = require("./inheritence.js");
 
 const me = new HospitalEmployee('William');
 me.takeVacationDays(12);
