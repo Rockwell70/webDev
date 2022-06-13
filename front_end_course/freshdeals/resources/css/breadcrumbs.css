@@ -1,0 +1,9 @@
+.breadcrumb li {
+    display: inline;
+    text-decoration: blue underline;
+}
+
+.breadcrumb.location li + li::before {
+    padding: 5px;
+    content: "/";
+}
