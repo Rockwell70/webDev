@@ -3,7 +3,12 @@
     text-decoration: blue underline;
 }
 
-.breadcrumb.location li + li::before {
+.breadcrumb li.location + li.location::before {
     padding: 5px;
     content: "/";
+}
+
+.breadcrumb li a:hover{
+    color: #01447e;
+    text-decoration: underline;
 }
