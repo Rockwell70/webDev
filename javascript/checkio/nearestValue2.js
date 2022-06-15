@@ -5,14 +5,14 @@ const assert = require("assert");
  * @return {Number} Array value closest to search value
  */
 function nearestValue(values, search){
-    let minDiff = 0;
+    let minDiff = 24;
     let minVal = 0;
     if (values.includes(search)) {
         return search;
     } else {
         for (let i = 0; i < values.length; i++)
-            if ((values[i] - search) < minDiff) {
-                minDiff = values[i] - search;
+            if (Math.abs(values[i] - search) <= minDiff) {
+                minDiff = Math.abs(values[i] - search);
                 minVal = values[i];
             }
     }
