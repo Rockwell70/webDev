@@ -5,12 +5,23 @@ const assert = require("assert");
  */
 
 function beginningZeros(text){
-    // your code here
-    return 0;
+    //test text is null
+    if (! text) {
+        return 0
+    }
+    let test = text.split('');
+    let count = 0;
+    for (let i = 0; i < test.length; i++)
+        if (test[i] === '0') {
+            count += 1
+        } else {
+            break;
+        }
+    return count;
 }
 
 console.log('Example:');
-console.log(beginningZeros('100'));
+console.log(beginningZeros('000000000000100'));
 
 // These "asserts" are used for self-checking
 assert.equal(beginningZeros('100'), 0);
