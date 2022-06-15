@@ -9,10 +9,9 @@ function beginningZeros(text){
     if (! text) {
         return 0
     }
-    let test = text.split('');
     let count = 0;
-    for (let i = 0; i < test.length; i++)
-        if (test[i] === '0') {
+    for (let i = 0; i < text.length; i++)
+        if (text[i] === '0') {
             count += 1
         } else {
             break;
