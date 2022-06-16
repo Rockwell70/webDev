@@ -5,18 +5,23 @@ const assert = require("assert");
  * @return {Number} Array value closest to search value
  */
 function nearestValue(values, search){
-    let minDiff = 100;
-    let minVal = 0;
+    let minDiff = [];
+    let minVal = [];
     if (values.includes(search)) {
         return search;
     } else {
         for (let i = 0; i < values.length; i++)
-            if (Math.abs(values[i] - Math.abs(search)) <= minDiff && values[i] < minVal) {
-                minDiff = Math.abs(values[i] - Math.abs(search));
-                minVal = values[i];
+            if (Math.abs((Math.abs(values[i]) - Math.abs(search))) < minDiff[0] || minDiff.length === 0) {
+                minDiff.pop();
+                minDiff.push(Math.abs(Math.abs(values[i]) - Math.abs(search)));
+                if (values[i] < minVal[0] || minVal.length === 0) {
+                    minVal.pop();
+                    minVal.push(values[i]);
+                }
+
             }
     }
-    return minVal;
+    return minVal[0];
 }
 
 //console.log('Example:');
