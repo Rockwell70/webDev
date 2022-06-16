@@ -5,25 +5,25 @@ const assert = require("assert");
  * @return {Number} Array value closest to search value
  */
 function nearestValue(values, search){
-    let minDiff = 24;
+    let minDiff = 100;
     let minVal = 0;
     if (values.includes(search)) {
         return search;
     } else {
         for (let i = 0; i < values.length; i++)
-            if (Math.abs(values[i] - search) <= minDiff) {
-                minDiff = Math.abs(values[i] - search);
+            if (Math.abs(values[i] - Math.abs(search)) <= minDiff && values[i] < minVal) {
+                minDiff = Math.abs(values[i] - Math.abs(search));
                 minVal = values[i];
             }
     }
     return minVal;
 }
 
-console.log('Example:');
-console.log(nearestValue([0,-2], -1));
+//console.log('Example:');
+//console.log(nearestValue([0,-2], -1));
 
 // These "asserts" are used for self-checking
-// assert.equal(nearestValue([4, 7, 10, 11, 12, 17], 9), 10);
+assert.equal(nearestValue([4, 7, 10, 11, 12, 17], 9), 10);
 // assert.equal(nearestValue([4, 7, 10, 11, 12, 17], 8), 7);
 // assert.equal(nearestValue([4, 8, 10, 11, 12, 17], 9), 8);
 // assert.equal(nearestValue([4, 9, 10, 11, 12, 17], 9), 9);
