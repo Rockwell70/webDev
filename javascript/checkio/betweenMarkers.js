@@ -1,8 +1,13 @@
 const assert = require("assert");
 
+
+/** @param {String} line
+ * @param {String} left
+ * @param {String} right
+ * @return {String} line characters between left and right characters
+ */
 function betweenMarkers(line, left, right) {
-    // your code here
-    return '';
+    return line.slice(line.indexOf(left) + 1, line.indexOf(right));
 }
 
 console.log('Example:');
