@@ -5,27 +5,29 @@ const assert = require("assert");
  * @return {Number} Array value closest to search value
  */
 function nearestValue(values, search){
-    let result = {};
-    if (values.includes(search)) {
-        return search;
-    } else if (search < values[0]) {
-        return values[0];
-    } else {
-        for (let i = 0; i < values.length; i++)
-            if (Math.abs(values[i] - search) in result) {
-                if (result[Math.abs(values[i] - search)] > values[i]){
-                    result[Math.abs(values[i] - search)] = values[i];
-                }
-            } else {
-                result[Number(Math.abs(values[i] - search))] = values[i];
-            }
+    let minDiff = [];
+    let closestNum = [];
+    for (let i = 0; i < values.length; i++){
+        /**test calculates the abs value of the difference between
+         * search and the current values array value
+         * @type {number}
+         */
+        let test = Math.abs(Math.abs(values[i]) - Math.abs(search));
+        if (minDiff.length === 0 || test < minDiff[minDiff.length-1]){
+            minDiff.push(test);
+            closestNum.pop();
+            closestNum.push(values[i]);
+        } else if (test === minDiff[minDiff.length-1]) {
+            closestNum.push(values[i]);
+        }
     }
-    const keys = Object.keys(result).sort();
-    return result[keys[0]];
+    return Math.min(...closestNum);
+
 }
 
-console.log('Example:');
-console.log(nearestValue([0,-2], -1));
+// console.log('Example:');
+console.log(nearestValue([4, 8, 10, 11, 12, 17], 9));
+console.log(nearestValue([0, -2], -1));
 
 // These "asserts" are used for self-checking
 assert.equal(nearestValue([4, 7, 10, 11, 12, 17], 9), 10);
