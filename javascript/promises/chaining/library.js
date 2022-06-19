@@ -42,7 +42,10 @@ const processPayment = (responseArray) => {
             // For simplicity we've omited a lot of functionality
             // If we were making more realistic code, we would want to update the giftcardBalance and the inventory
             if (hasEnoughMoney) {
-                console.log(`Payment processed with giftcard. Generating shipping label.`);
+                console.log(`Payment processed with giftcard (${order.giftcardBalance.toLocaleString()}). Generating shipping label.`);
+                order.giftcardBalance -= total
+                console.log(`Your giftcard balance is $${order.giftcardBalance.toLocaleString()}`);
+
                 let trackingNum = generateTrackingNumber();
                 resolve([order, trackingNum]);
             } else {
