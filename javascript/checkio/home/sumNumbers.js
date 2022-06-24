@@ -3,7 +3,7 @@ const assert = require("assert");
 function sumNumbers(test){
     let total = 0;
     //match groups of consecutive digits
-    const matched = test.match(/([0-9][^a-z])+/g);
+    const matched = test.match(/(\d[^a-z])+/g);
     //test of no digits found
     if (! matched) {
         return total;
