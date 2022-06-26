@@ -1,0 +1,23 @@
+body {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #0087de;
+    line-height: 100px;
+    margin: 0;
+}
+
+section {
+    display: inline-flex;
+}
+
+article {
+    margin: 10px;
+    padding: 10px;
+    background: green;
+
+}
