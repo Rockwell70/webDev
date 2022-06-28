@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: inline-flex;
+    position: relative;
 }
 
 article {
@@ -22,7 +23,15 @@ article {
     background: whitesmoke;
 
 }
+.article-one {
+    border-radius: 10px;
+    position: relative;
+}
 
+.article-two {
+    border-radius: 10px;
+    position: relative;
+}
 #pickerke a {
     display: block;
     width: 26px;
@@ -32,4 +41,8 @@ article {
     float: left;
     position: relative;
     z-index: 8;
+}
+
+#pickerke a:hover {
+
 }
