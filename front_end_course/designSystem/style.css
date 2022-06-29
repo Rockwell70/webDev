@@ -53,17 +53,18 @@ article {
     border-radius: 10px;
     font-size: 12px;
     line-height: 17px;
-    margin: 0 auto 3rem;
+    margin: auto;
     padding: 9px;
+    position: relative;
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
+    text-align: center;
     text-decoration: none;
     font-style: normal;
     font-variant: normal;
-    text-transform: none;
     box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px;
     border: 2px solid rgb(28, 110, 164);
-    display: inline-block;
+    display: grid;
     transition: margin-right 2s, color 1s;
 }
 
@@ -84,7 +85,7 @@ article {
     width: 100%;
 }
 .bubble {
-    background: red;
+    background: purple;
     color: white;
     padding: 4px 12px;
     position: absolute;
@@ -104,4 +105,9 @@ article {
 
 body {
     margin: 2rem;
+}
+
+#tentacles {
+    margin-left: 15px;
+    position: relative;
 }
