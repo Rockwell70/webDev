@@ -46,3 +46,34 @@ article {
 #pickerke a:hover {
 
 }
+
+.btn_one {
+    color: White;
+    background-color:#2176FF;
+    border-radius: 10px;
+    font-size: 12px;
+    line-height: 17px;
+    padding: 9px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px;
+    border: 2px solid rgb(28, 110, 164);
+    display: inline-block;
+    transition: margin-right 2s, color 1s;
+}
+
+.btn_one:hover {
+    background: gold;
+    color: Blue;
+    font-size: 15px;
+}
+.btn_one:active {
+    background: #144E75; }
+
+#slider {
+    padding-top: 50px;
+}
