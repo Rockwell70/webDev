@@ -1,28 +1,43 @@
+const {strictEqual} = require("assert");
 
-
-function backwardStringByWord(text) {
-    const temp = text.split(' ');
-    let newHolder = [];
-    let newText = '';
-    for (let i = 0; i < temp.length; i++){
-        for (let j = temp[i].length-1; j >= 0; j--) {
-            newText += temp[i][j];
-        }
-        newHolder.push(`${newText} `);
+//Function that reverses a string
+const reverseWord = (text) => {
+    if (!text) {
+        return '';
+    } else {
+        const splitOne = text.split('').reverse();
+        return splitOne.join('');
     }
-
-    return newHolder;
 }
-console.log(backwardStringByWord('This is a Bame'));
+
+/**Function to split a sentence and return reversed
+ * version of each word. Words maintain their original order.
+ * @param text
+ * @returns {string}
+ */
+const backwardStringByWord = text => {
+    let newText = '';
+    if (!text) {
+        return ''
+    } else {
+        const temp = text.split(' ');
+        for (let i = 0; i < temp.length; i++) {
+            newText += `${reverseWord(temp[i])} `;
+        }
+    }
+    return newText.trim();
+}
+console.log(backwardStringByWord('Hello World'));
+console.log(backwardStringByWord("") === '');
 
 // console.log('Example:');
 // console.log(backwardStringByWord(''));
 //
 // // These "asserts" are used for self-checking
-// assert.equal(backwardStringByWord(''), '');
-// assert.equal(backwardStringByWord('world'), 'dlrow');
-// assert.equal(backwardStringByWord('hello world'), 'olleh dlrow');
-// assert.equal(backwardStringByWord('hello   world'), 'olleh   dlrow');
-// assert.equal(backwardStringByWord('welcome to a game'), 'emoclew ot a emag');
+strictEqual(backwardStringByWord(''), '');
+strictEqual(backwardStringByWord('world'), 'dlrow');
+strictEqual(backwardStringByWord('hello world'), 'olleh dlrow');
+strictEqual(backwardStringByWord('hello   world'), 'olleh   dlrow');
+strictEqual(backwardStringByWord('welcome to a game'), 'emoclew ot a emag');
 
 // console.log("Coding complete? Click 'Check' to earn cool rewards!");
