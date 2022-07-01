@@ -1,28 +1,22 @@
 const {strictEqual} = require("assert");
 
-//Function that reverses a string
-const reverseWord = (text) => {
-    if (!text) {
-        return '';
-    } else {
-        const splitOne = text.split('').reverse();
-        return splitOne.join('');
-    }
-}
-
 /**Function to split a sentence and return reversed
  * version of each word. Words maintain their original order.
  * @param text
  * @returns {string}
  */
-const backwardStringByWord = text => {
+function backwardStringByWord(text) {
     let newText = '';
     if (!text) {
         return ''
     } else {
         const temp = text.split(' ');
         for (let i = 0; i < temp.length; i++) {
-            newText += `${reverseWord(temp[i])} `;
+            // newText += `${reverseWord(temp[i])} `;
+            newText += `${temp[i]
+                .split('')
+                .reverse()
+                .join('')} `;
         }
     }
     return newText.trim();
