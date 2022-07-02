@@ -2,11 +2,14 @@ const {deepEqual} = require("assert");
 
 
 function biggerPrice(limit, data) {
-    const dataSorted = data((a, b) => a.price.localeCompare(b.price));
-    console.log(dataSorted);
+    let priceHolder = [];
+    let total = 0;
+    data.forEach(item => priceHolder.push(item['price']));
+    priceHolder.sort();
+    priceHolder.reverse();
+    return Math.max(...priceHolder);
 
-
-    }
+}
 
 console.log('Example:')
 console.log(biggerPrice(2, [
