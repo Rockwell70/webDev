@@ -3,6 +3,10 @@ const {equal} = require("assert");
 function betweenMarkers(text, begin, end) {
     if (!text.includes(begin && end)) {
         return text;
+    } else if (text.indexOf(begin) > text.indexOf(end)) {
+        return '';
+    } else if (!text.includes(begin) && text.includes(end)) {
+        return text.slice(0,text.indexOf(end));
     }
 
 }
