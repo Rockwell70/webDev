@@ -1,18 +1,25 @@
 const {equal} = require("assert");
 
 function betweenMarkers(text, begin, end) {
-    if (!text.includes(begin && end)) {
+    //Test if text contains begin and end.
+    if (!text.includes(begin) && !text.includes(end)) {
         return text;
-    } else if (text.indexOf(begin) > text.indexOf(end)) {
+        //Test if end comes before begin.
+    } else if (text.indexOf(begin[0]) > text.indexOf(end[0])) {
         return '';
+        //Test if text only contains end
     } else if (!text.includes(begin) && text.includes(end)) {
-        return text.split(end)[0];
+        return text.split(end)[0].trim();
+        //Test if text only contains begin
     } else if (text.includes(begin) && !text.includes(end)) {
         return text.split(begin)[1].trim();
     } else {
-        return text.slice(text.indexOf(begin) + 1, text.indexOf(end));
+        //Split text on begin then split the result on end
+        let firstSplit = text.split(begin)[1];
+        return firstSplit.split(end)[0].trim();
     }
 }
+
 
 console.log('Example:')
 console.log(betweenMarkers('What is >apple<', '>', '<'), 'apple')
