@@ -14,7 +14,6 @@ const getGenres = async () => {
         if (response.ok) {
             const jsonResponse = await response.json();
             const genres = jsonResponse.genres
-            //console.log(genres)
             return genres
         } else {
             // Handle server error
