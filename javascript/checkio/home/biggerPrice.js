@@ -1,4 +1,4 @@
-const {deepEqual} = require("assert");
+import deepEqual from "assert";
 
 
 function biggerPrice(limit, data) {
