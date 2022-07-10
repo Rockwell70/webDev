@@ -99,3 +99,8 @@ const displayMovie = (movieInfo) => {
     likeBtn.onclick = likeMovie;
     dislikeBtn.onclick = dislikeMovie;
 };
+
+const helperFunctions = {
+    getSelectedGenre
+}
+export default helperFunctions
