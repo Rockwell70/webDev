@@ -1,7 +1,7 @@
 "use strict";
 
 /** @param {string} text
- * @param {Array} words
+ * @param {Array} words Words to search for
  * @return {dictionary} Number of occurrences of each word on words
  */
 function popularWords(text, words) {
