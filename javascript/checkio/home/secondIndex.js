@@ -1,20 +1,29 @@
 import * as assert from "assert";
 
+/** @param {string} text String to search
+ * @param {string} symbol Char to find
+ * @return {Number} Index of 2nd occurrence of symbol
+ */
 function secondIndex(text, symbol) {
   let indexes = [];
-  //let letters = text.split("");
-
+  //check if symbol not in text or occurs only once;
   if (
-    !text.includes(symbol) ||
-    text.indexOf(symbol) === text.lastIndexOf(symbol)
+    !(
+      !text.includes(symbol) ||
+      text.indexOf(symbol) === text.lastIndexOf(symbol)
+    )
   ) {
-    return undefined;
-  } else {
-    for (const [index, element] of text.split('').entries())
-      if (element === symbol) {
-        console.log(element, index);
+    /**Split text into a list
+     * Use entries() to get the index of each list letter
+     * If letter matches symbol append that letter's index to the
+     * indexes list.
+     */
+    for (const [index, letter] of text.split("").entries())
+      if (letter === symbol) {
         indexes.push(index);
       }
+  } else {
+    return undefined;
   }
   return indexes[1];
 }
