@@ -1,9 +1,10 @@
 import * as assert from "assert";
 
-function frequencySort(items){
+function frequencySort(items: any[]): any[] {
   // your code here
   return [];
 }
+
 
 console.log('Example:');
 console.log(frequencySort([4, 6, 2, 2, 6, 4, 4, 4]));
