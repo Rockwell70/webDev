@@ -1,5 +1,3 @@
-//import {frequencySort} from "./sortByFreq.js";
-
 const frequencySort = require('./sortByFreq.js');
 
 describe('frequencySort() function tests', () => {
