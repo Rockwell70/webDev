@@ -33,7 +33,7 @@ function frequencySort(items) {
 
 // console.log(frequencySort([]))
 //console.log(frequencySort([4, 6, 2, 2, 6, 4, 4, 4]))
-// module.exports = frequencySort;
+//module.exports = frequencySort;
 
 console.log("Example:");
 console.log(frequencySort([4, 6, 2, 2, 6, 4, 4, 4]));

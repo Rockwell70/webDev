@@ -1,0 +1,116 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Rubik, Arial, sans-serif;
+}
+
+header.page-header {
+    display: flex;
+    height: 120px;
+    min-width: 120px;
+    justify-content: center;
+    align-items: center;
+    color: #050505;
+}
+
+.custom-logo{
+    height: 35px;
+    justify-content: left;
+    align-items: flex-start;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border-style: solid;
+    border-width: thin;
+    position: relative;
+    text-align: center;
+    width: 8%;
+
+}
+
+th {
+    border-color: #050505;
+    border-style: solid;
+    border-width: thin;
+}
+.mgmt {
+    float: left;
+    left: 800px;
+    position: relative;
+
+}
+.mgmt th {
+    background-color: #333F4F;
+    color: white;
+}
+
+.mgmt tbody tr:nth-child(2) td:nth-child(7) {
+    background-color: hsl(0, 0%, 0%, 30%);
+}
+.mgmt tbody tr:nth-child(2) td:nth-child(8) {
+    background-color: hsl(0, 0%, 0%, 30%);
+}
+
+.mgmt tbody tr:nth-child(3) td:nth-child(7) {
+    background-color: hsl(0, 0%, 0%, 30%);
+}
+
+.mgmt tbody tr:nth-child(3) td:nth-child(8) {
+    background-color: hsl(0, 0%, 0%, 30%);
+}
+
+
+/*.mgmt td {*/
+/*    border-style: solid;*/
+/*    border-width: thin;*/
+/*    position: relative;*/
+/*    text-align: center;*/
+/*    width: 8%;*/
+/*}*/
+
+#grid{
+    display: grid;
+    grid-template-columns: 10%;
+}
+
+
+
+
+
+form {
+    text-align: center;
+    line-height: 30px;
+    height: 80%;
+    overflow: auto;
+}
+
+form hr {
+    width: 15%;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+#burger {
+    max-height: 30%;
+}
+
+#overlay {
+    width: 80%;
+    margin: 3% auto;
+    height: 95vh;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 40px;
+}
+
+
+
+.toppings label, .cheesy label {
+    margin-right: 25px;
+}
+
