@@ -1,4 +1,4 @@
-import * as assert from "assert";
+//import * as assert from "assert";
 
 /**
  *  Sorting an array order by frequency of occurence in javascript
@@ -33,10 +33,10 @@ function frequencySort(items) {
 
 // console.log(frequencySort([]))
 //console.log(frequencySort([4, 6, 2, 2, 6, 4, 4, 4]))
-//module.exports = frequencySort;
+module.exports = frequencySort;
 
-console.log("Example:");
-console.log(frequencySort([4, 6, 2, 2, 6, 4, 4, 4]));
+// console.log("Example:");
+// console.log(frequencySort([4, 6, 2, 2, 6, 4, 4, 4]));
 // console.log(frequencySort(["bob", "bob", "carl", "alex", "bob"]));
 
 // These "asserts" are used for self-checking and not for an auto-testing
