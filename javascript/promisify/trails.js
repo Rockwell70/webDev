@@ -1,4 +1,5 @@
-module.exports = trails = {
+//module.exports = trails = {
+const trails = {
   'Appalachian': {
     'nickname': 'AT',
     'miles': 2189.1,
@@ -24,3 +25,5 @@ module.exports = trails = {
     'region': 'West Coast'
   }
 }
+
+export default trails

@@ -1,8 +1,9 @@
 // Require in trails module from trails.js
-const trails = require('./trails.js');
-//import trails from './trails.js';
+//const trails = require('./trails.js');
+import trails from './trails.js';
 // Require util module here!
-const util = require('util');
+//const util = require('util');
+import * as util from "util";
 
 // Simulate database call to search trails module for specified trail
 const getTrailDistance = (trail, callback) => {
