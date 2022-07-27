@@ -1,4 +1,5 @@
-import * as fs from 'node:fs';
+const fs = require('fs')
+let holder = [];
 
 let readDataFile = (err, data) => {
   if (err) {
@@ -8,4 +9,5 @@ let readDataFile = (err, data) => {
   }
 };
 
-fs.readFile('./file.txt', 'utf-8', readDataFile);
+//fs.readFile("./file.txt", 'utf-8', readDataFile);
+fs.readFile("../../JobTitles.csv", 'utf-8', readDataFile);

@@ -1,0 +1,1147 @@
+Job Family Group,Job Families,Job Profile Long,Career Track,Track Level,Career Track Sort,Pay Grade,Min,Mid,Max,Grade Key
+Accounting,Accounts Payable,Accounts Payable Administrator I,Business Support,BS1,4,5,35300,44100,53000,U5-1
+Accounting,Accounts Payable,Accounts Payable Administrator II,Business Support,BS2,5,6,39400,49300,59100,U6-1
+Accounting,Accounts Payable,Sr Accounts Payable Administrator I,Business Support,BS3,6,6,44200,55300,66300,U7-1
+Accounting,Accounts Payable,Sr Accounts Payable Administrator II,Business Support,BS4,7,8,49500,61900,74300,U8-1
+Accounting,Accounts Payable,"Manager, Accounts Payable",Management,MG3,49,13,83400,104200,125100,U13-1
+Accounting,Accounts Payable,"Sr Manager, Accounts Payable",Management,MG4,50,16,109900,137400,164900,U16-1
+Accounting,Accounts Payable,"Director, Accounts Payable",Management,MG5,51,17,119800,149800,179700,U17-1
+Accounting,Accounts Payable,"Sr Director, Accounts Payable",Management,MG6,52,19,138400,176400,214500,U19-1
+Accounting,Accounts Receivable,Accounts Receivable Administrator I,Business Support,BS1,4,5,31400,39300,47100,U4-1
+Accounting,Accounts Receivable,Accounts Receivable Administrator II,Business Support,BS2,5,5,35300,44100,53000,U5-1
+Accounting,Accounts Receivable,Sr Accounts Receivable Administrator I,Business Support,BS3,6,6,39400,49300,59100,U6-1
+Accounting,Accounts Receivable,Sr Accounts Receivable Administrator II,Business Support,BS4,7,6,44200,55300,66300,U7-1
+Accounting,Accounts Receivable,Accounts Receivable Analyst I,Business Professional,BP1,31,7,44200,55300,66300,U7-1
+Accounting,Accounts Receivable,Accounts Receivable Analyst II,Business Professional,BP2,32,8,49500,61900,74300,U8-1
+Accounting,Accounts Receivable,Sr Accounts Receivable Analyst I,Business Professional,BP3,33,11,68900,86100,103400,U11-1
+Accounting,Accounts Receivable,Sr Accounts Receivable Analyst II,Business Professional,BP4,34,13,83400,104200,125100,U13-1
+Accounting,Accounts Receivable,Principal Accounts Receivable Analyst,Business Professional,BP5,35,15,100900,126100,151400,U15-1
+Accounting,Accounts Receivable,Sr Principal Accounts Receivable Analyst,Business Professional,BP6,36,,109900,137400,164900,U16-1
+Accounting,Accounts Receivable,"Supervisor, Accounts Receivable",Management,MG1,47,9,55400,69300,83100,U9-1
+Accounting,Accounts Receivable,"Sr Supervisor, Accounts Receivable",Management,MG2,48,11,68900,86100,103400,U11-1
+Accounting,Accounts Receivable,"Manager, Accounts Receivable",Management,MG3,49,13,83400,104200,125100,U13-1
+Accounting,Accounts Receivable,"Sr Manager, Accounts Receivable",Management,MG4,50,15,100900,126100,151400,U15-1
+Accounting,Accounts Receivable,"Director, Accounts Receivable",Management,MG5,51,17,119800,149800,179700,U17-1
+Accounting,Accounts Receivable,"Sr Director, Accounts Receivable",Management,MG6,52,19,138400,176400,214500,U19-1
+Accounting,Cost Accounting,Cost Accountant I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Accounting,Cost Accounting,Cost Accountant II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Accounting,Cost Accounting,Sr Cost Accountant I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Accounting,Cost Accounting,Sr Cost Accountant II,Business Professional,BP4,34,14,91700,114600,137600,U14-1
+Accounting,Cost Accounting,Principal Cost Accountant,Business Professional,BP5,35,16,109900,137400,164900,U16-1
+Accounting,Cost Accounting,Sr Principal Cost Accountant,Business Professional,BP6,36,19,138400,176400,214500,U19-1
+Accounting,Cost Accounting,"Manager, Cost Accounting",Management,MG3,49,15,100900,126100,151400,U15-1
+Accounting,Cost Accounting,"Sr Manager, Cost Accounting",Management,MG4,50,17,119800,149800,179700,U17-1
+Accounting,Cost Accounting,"Assc Director, Cost Accounting",Management,MG4,50,17,119800,149800,179700,U17-1
+Accounting,Cost Accounting,"Director, Cost Accounting",Management,MG5,51,19,138400,176400,214500,U19-1
+Accounting,Cost Accounting,"Sr Director, Cost Accounting",Management,MG6,52,22,173100,225000,277000,U22-1
+Accounting,General Accounting,Accountant I,Business Professional,BP1,31,8,44200,55300,66300,U7-1
+Accounting,General Accounting,Accountant II,Business Professional,BP2,32,9,55400,69300,83100,U9-1
+Accounting,General Accounting,Sr Accountant I,Business Professional,BP3,33,11,68900,86100,103400,U11-1
+Accounting,General Accounting,Sr Accountant II,Business Professional,BP4,34,14,83400,104200,125100,U13-1
+Accounting,General Accounting,Principal Accountant,Business Professional,BP5,35,17,109900,137400,164900,U16-1
+Accounting,General Accounting,Sr Principal Accountant,Business Professional,BP6,36,21,138400,176400,214500,U19-1
+Accounting,General Accounting,"Manager, Accounting",Management,MG3,49,15,100900,126100,151400,U15-1
+Accounting,General Accounting,"Sr Manager, Accounting",Management,MG4,50,18,119800,149800,179700,U17-1
+Accounting,General Accounting,"Assc Director, General Accounting",Management,MG4,50,18,119800,149800,179700,U17-1
+Accounting,General Accounting,"Director,  Accounting",Management,MG5,51,20,149800,191000,232200,U20-1
+Accounting,General Accounting,"Sr Director,  Accounting",Management,MG6,52,22,173100,225000,277000,U22-1
+Accounting,Revenue Accounting,Revenue Accountant I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Accounting,Revenue Accounting,Revenue Accountant II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Accounting,Revenue Accounting,Sr Revenue Accountant I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Accounting,Revenue Accounting,Sr Revenue Accountant II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Accounting,Revenue Accounting,Principal Revenue Accountant,Business Professional,BP5,35,18,126900,161800,196700,U18-1
+Accounting,Revenue Accounting,Sr Principal Revenue Accountant,Business Professional,BP6,36,19,138400,176400,214500,U19-1
+Accounting,Revenue Accounting,"Manager, Revenue Accounting",Management,MG3,49,15,100900,126100,151400,U15-1
+Accounting,Revenue Accounting,"Sr Manager, Revenue Accounting",Management,MG4,50,18,126900,161800,196700,U18-1
+Accounting,Revenue Accounting,"Director, Revenue Accounting",Management,MG5,51,20,149800,191000,232200,U20-1
+Accounting,Revenue Accounting,"Sr Director, Revenue Accounting",Management,MG6,52,23,188500,245000,301600,U23-1
+Administrative,Administrative,Administrative Assistant I,Business Support,BS1,4,4,31400,39300,47100,U4-1
+Administrative,Administrative,Administrative Assistant II,Business Support,BS2,5,6,39400,49300,59100,U6-1
+Administrative,Administrative,Sr Administrative Assistant I,Business Support,BS3,6,8,49500,61900,74300,U8-1
+Administrative,Administrative,Sr Administrative Assistant II,Business Support,BS4,7,10,61500,76900,92300,U10-1
+Administrative,Administrative,Executive Assistant I,Business Professional,BP1,31,9,55400,69300,83100,U9-1
+Administrative,Administrative,Executive Assistant II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Administrative,Administrative,Sr Executive Assistant I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Administrative,Administrative,Sr Executive Assistant II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Administrative,Administrative,"Supervisor, Administration",Management,MG1,47,9,55400,69300,83100,U9-1
+Administrative,Administrative,"Sr Supervisor, Administration",Management,MG2,48,11,68900,86100,103400,U11-1
+Administrative,Administrative,"Manager, Administration",Management,MG3,49,13,83400,104200,125100,U13-1
+Chemistry,Chemists,Chemist I,Technical Professional,TP1,39,9,55400,69300,83100,U9-1
+Chemistry,Chemists,Chemist II,Technical Professional,TP2,40,11,61500,76900,92300,U10-1
+Chemistry,Chemists,Sr Chemist I,Technical Professional,TP3,41,13,83400,104200,125100,U13-1
+Chemistry,Chemists,Sr Chemist II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Chemistry,Chemists,Principal Chemist,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+Chemistry,Chemists,Sr Principal Chemist,Technical Professional,TP6,44,21,161600,206000,250500,U21-1
+Chemistry,Chemists,"Manager, Chemistry",Management,MG3,49,16,109900,137400,164900,U16-1
+Chemistry,Chemists,"Sr Manager, Chemistry",Management,MG4,50,20,149800,191000,232200,U20-1
+Chemistry,Chemists,"Assc Director, Chemistry",Management,MG4,50,20,149800,191000,232200,U20-1
+Chemistry,Chemists,"Director, Chemistry",Management,MG5,51,23,188500,245000,301600,U23-1
+Chemistry,Chemists,"Sr Director, Chemistry",Management,MG6,52,24,207700,270000,332300,U24-1
+Customer Support,Sales Support - Appeals,"Specialist 1, Appeals",Business Support,BS1,4,4,35300,44100,53000,U5-1
+Customer Support,Sales Support - Appeals,"Specialist 2, Appeals",Business Support,BS2,5,6,39400,49300,59100,U6-1
+Customer Support,Sales Support - Appeals,"Specialist 3, Appeals",Business Support,BS3,6,7,44200,55300,66300,U7-1
+Customer Support,Sales Support - Appeals,"Specialist 4, Appeals",Business Support,BS4,7,6,49500,61900,74300,U8-1
+Customer Support,Sales Support - Appeals,"Supervisor, Appeals",Management,MG1,47,10,55400,69300,83100,U9-1
+Customer Support,Sales Support - Appeals,"Sr Supervisor, Appeals",Management,MG2,48,10,61500,76900,92300,U10-1
+Customer Support,Sales Support - Appeals,"Manager, Appeals",Management,MG3,49,12,83400,104200,125100,U13-1
+Customer Support,Sales Support - Appeals,"Sr Manager, Appeals",Management,MG4,50,16,109900,137400,164900,U16-1
+Customer Support,Sales Support - Appeals,"Director, Appeals",Management,MG5,51,19,138400,176400,214500,U19-1
+Customer Support,Sales Support - Appeals,"Sr Director, Appeals",Management,MG6,52,21,161600,206000,250500,U21-1
+Customer Support,Customer Support - Executive,"VP, Customer Support",Executive,EX1,54,24,207700,270000,332300,U24-1
+Customer Support,Customer Support-Executive,"SVP, Customer Support",Executive,EX3,56,25,224200,297000,369900,U25-1
+Customer Support,Sales Support - Inbound Supply,"Specialist 1, Inbound Supply",Business Support,BS1,4,4,35300,44100,53000,U5-1
+Customer Support,Sales Support - Inbound Supply,"Specialist 2, Inbound Supply",Business Support,BS2,5,6,39400,49300,59100,U6-1
+Customer Support,Sales Support - Inbound Supply,"Specialist 3, Inbound Supply",Business Support,BS3,6,7,44200,55300,66300,U7-1
+Customer Support,Sales Support - Inbound Supply,"Specialist 4, Inbound Supply",Business Support,BS4,7,9,49500,61900,74300,U8-1
+Customer Support,Sales Support - Inbound Supply,"Supervisor, Inbound Supply",Management,MG1,47,10,55400,69300,83100,U9-1
+Customer Support,Sales Support - Inbound Supply,"Sr Supervisor, Inbound Supply",Management,MG2,48,11,61500,76900,92300,U10-1
+Customer Support,Sales Support - Inbound Supply,"Manager, Inbound Supply",Management,MG3,49,14,83400,104200,125100,U13-1
+Customer Support,Sales Support - Inbound Supply,"Sr Manager, Inbound Supply",Management,MG4,50,16,109900,137400,164900,U16-1
+Customer Support,Sales Support - Intake and BVS,"Specialist 1, Intake & BVS",Business Support,BS1,4,3,28100,35100,42200,U3-1
+Customer Support,Sales Support - Intake and BVS,"Specialist 1, Intake & BVS",Business Support,BS1,4,3,28100,35100,42200,U3-1
+Customer Support,Sales Support - Intake and BVS,"Specialist 2, Intake & BVS",Business Support,BS2,5,4,31400,39300,47100,U4-1
+Customer Support,Sales Support - Intake and BVS,"Specialist 3, Intake & BVS",Business Support,BS3,6,5,35300,44100,53000,U5-1
+Customer Support,Sales Support - Intake and BVS,"Specialist 4, Intake & BVS",Business Support,BS4,7,7,44200,55300,66300,U7-1
+Customer Support,Sales Support - Intake and BVS,"Supervisor, Intake & BVS",Management,MG1,47,10,55400,69300,83100,U9-1
+Customer Support,Sales Support - Intake and BVS,"Supervisor, Intake & BVS",Management,MG1,47,10,55400,69300,83100,U9-1
+Customer Support,Sales Support - Intake and BVS,"Sr Supervisor, Intake & BVS",Management,MG2,48,11,61500,76900,92300,U10-1
+Customer Support,Sales Support - Intake and BVS,"Manager, Intake & BVS",Management,MG3,49,13,83400,104200,125100,U13-1
+Customer Support,Sales Support - Intake and BVS,"Sr Manager, Intake & BVS",Management,MG4,50,17,109900,137400,164900,U16-1
+Customer Support,Sales Support - Intake and BVS,"Director, Intake & BVS",Management,MG5,51,19,138400,176400,214500,U19-1
+Customer Support,Sales Support - Intake and BVS,"Sr Director, Intake & BVS",Management,MG6,52,22,173100,225000,277000,U22-1
+Customer Support,Sales Support - Supply Sales,"Specialist 1, Supply Sales",Business Support,BS1,4,4,39400,49300,59100,U6-1
+Customer Support,Sales Support - Supply Sales,"Specialist 2, Supply Sales",Business Support,BS2,5,6,44200,55300,66300,U7-1
+Customer Support,Sales Support - Supply Sales,"Specialist 3, Supply Sales",Business Support,BS3,6,7,49500,61900,74300,U8-1
+Customer Support,Sales Support - Supply Sales,"Specialist 4, Supply Sales",Business Support,BS4,7,9,55400,69300,83100,U9-1
+Customer Support,Sales Support - Supply Sales,"Supervisor, Supply Sales",Management,MG1,47,10,55400,69300,83100,U9-1
+Customer Support,Sales Support - Supply Sales,"Sr Supervisor, Supply Sales",Management,MG2,48,11,61500,76900,92300,U10-1
+Customer Support,Sales Support - Supply Sales,"Manager, Supply Sales",Management,MG3,49,14,83400,104200,125100,U13-1
+Customer Support,Sales Support - Supply Sales,"Sr Manager, Supply Sales",Management,MG4,50,16,109900,137400,164900,U16-1
+Customer Support,Sales Support - Supply Sales,"Director, Customer Sales Support",Management,MG5,51,20,149800,191000,232200,U20-1
+Customer Support,Sales Support - Supply Sales,"Sr Director, Customer Care Operations",Management,MG6,52,21,161600,206000,250500,U21-1
+Customer Support,Customer Success Advocacy,"Specialist 1, Customer Success",Business Support,BS1,4,3,31400,39300,47100,U4-1
+Customer Support,Customer Success Advocacy,"Specialist 2, Customer Success",Business Support,BS2,5,4,35300,44100,53000,U5-1
+Customer Support,Customer Success Advocacy,"Specialist 3, Customer Success",Business Support,BS3,6,5,39400,49300,59100,U6-1
+Customer Support,Customer Success Advocacy,"Lead, Customer Success",Business Support,BS4,7,7,49500,61900,74300,U8-1
+Customer Support,Customer Success Advocacy,"Supervisor, Customer Success",Management,MG1,47,9,55400,69300,83100,U9-1
+Customer Support,Customer Success Advocacy,"Sr Supervisor, Customer Success",Management,MG2,48,10,61500,76900,92300,U10-1
+Customer Support,Customer Success Advocacy,"Manager, Customer Success",Management,MG3,49,14,83400,104200,125100,U13-1
+Customer Support,Customer Success Advocacy,"Sr Manager, Customer Success",Management,MG4,50,15,100900,126100,151400,U15-1
+Customer Support,Customer Success Advocacy,"Director, Customer Success",Management,MG5,51,18,126900,161800,196700,U18-1
+Customer Support,Customer Success Advocacy,"Sr Director, Customer Success",Management,MG6,52,21,161600,206000,250500,U21-1
+Customer Support,Sales Support - Retention,"Specialist 1, Retention",Business Support,BS1,4,3,31400,39300,47100,U4-1
+Customer Support,Sales Support - Retention,"Specialist 2, Retention",Business Support,BS2,5,4,39400,49300,59100,U6-1
+Customer Support,Sales Support - Retention,"Specialist 3, Retention",Business Support,BS3,6,5,44200,55300,66300,U7-1
+Customer Support,Sales Support - Retention,"Lead, Retention",Business Support,BS4,7,7,49500,61900,74300,U8-1
+Customer Support,Sales Support - Retention,"Supervisor, Retention",Management,MG1,47,9,55400,69300,83100,U9-1
+Customer Support,Sales Support - Retention,"Sr Supervisor, Retention",Management,MG2,48,10,61500,76900,92300,U10-1
+Customer Support,Sales Support - Retention,"Manager, Retention",Management,MG3,49,14,91700,114600,137600,U14-1
+Customer Support,Sales Support - Retention,"Sr Manager, Retention",Management,MG4,50,15,100900,126100,151400,U15-1
+Customer Support,Sales Support - Retention,"Director, Retention",Management,MG5,51,18,126900,161800,196700,U18-1
+Customer Support,Sales Support - Retention,"Sr Director, Retention",Management,MG6,52,21,161600,206000,250500,U21-1
+Customer Support,Training Support,Clinical Training Coordinator 1,Business Support,BS1,4,4,31400,39300,47100,U4-1
+Customer Support,Training Support,Clinical Training Coordinator 2,Business Support,BS2,5,6,35300,44100,53000,U5-1
+Customer Support,Training Support,Clinical Training Coordinator 3,Business Support,BS3,6,8,39400,49300,59100,U6-1
+Customer Support,Training Support,Lead Clinical Training Coordinator,Business Support,BS4,7,10,49500,61900,74300,U8-1
+Customer Support,Training Support,"Supervisor, Clinical Training Support",Management,MG1,47,10,61500,76900,92300,U10-1
+Customer Support,Training Support,"Sr Supervisor, Clinical Training Support",Management,MG2,48,11,68900,86100,103400,U11-1
+Customer Support,Training Support,"Manager, Clinical Training Support",Management,MG3,49,13,83400,104200,125100,U13-1
+Customer Support,Training Support,"Senior Manager, Clinical Training Support",Management,MG4,50,17,119800,149800,179700,U17-1
+Customer Support,Training Support,"Director, Clinical Training Support",Management,MG5,51,19,138400,176400,214500,U19-1
+Customer Support,Training Support,"Senior Director, Clinical Training Support",Management,MG6,52,22,173100,225000,277000,U22-1
+Customer Support,Customer Technical Support,"Specialist 1, Tech Support",Technical Support,TS1,9,4,31400,39300,47100,U4-1
+Customer Support,Customer Technical Support,"Specialist 2, Tech Support",Technical Support,TS2,10,5,35300,44100,53000,U5-1
+Customer Support,Customer Technical Support,"Specialist 3, Tech Support",Technical Support,TS3,11,6,44200,55300,66300,U7-1
+Customer Support,Customer Technical Support,"Specialist 3, Tech Support",Technical Support,TS3,11,6,44200,55300,66300,U7-1
+Customer Support,Customer Technical Support,"Specialist 4, Tech Support",Technical Support,TS4,12,8,49500,61900,74300,U8-1
+Customer Support,Customer Technical Support,"Supervisor, Tech Support",Management,MG1,47,8,55400,69300,83100,U9-1
+Customer Support,Customer Technical Support,"Sr Supervisor, Tech Support",Management,MG2,48,11,61500,76900,92300,U10-1
+Customer Support,Customer Technical Support,"Manager, Tech Support",Management,MG3,49,13,83400,104200,125100,U13-1
+Customer Support,Customer Technical Support,"Sr Manager, Tech Support",Management,MG4,50,16,109900,137400,164900,U16-1
+Customer Support,Customer Technical Support,"Director, Customer Technical Support",Management,MG5,51,18,126900,161800,196700,U18-1
+Customer Support,Customer Technical Support,"Sr Director, Customer Technical Support",Management,MG6,52,20,149800,191000,232200,U20-1
+Data Analytics,Data Scientists,Data Scientist I,Technical Professional,TP1,39,11,68900,86100,103400,U11-1
+Data Analytics,Data Scientists,Data Scientist II,Technical Professional,TP2,40,14,91700,114600,137600,U14-1
+Data Analytics,Data Scientists,Sr Data Scientist I,Technical Professional,TP3,41,17,119800,149800,179700,U17-1
+Data Analytics,Data Scientists,Sr Data Scientist II,Technical Professional,TP4,42,19,138400,176400,214500,U19-1
+Data Analytics,Data Scientists,Principal Data Scientist,Technical Professional,TP5,43,20,149800,191000,232200,U20-1
+Data Analytics,Data Scientists,Sr Principal Data Scientist,Technical Professional,TP6,44,22,173100,225000,277000,U22-1
+Data Analytics,Data Scientists,"Manager, Data Science",Management,MG3,49,19,138400,176400,214500,U19-1
+Data Analytics,Data Scientists,"Sr Manager, Data Science",Management,MG4,50,21,161600,206000,250500,U21-1
+Data Analytics,Data Scientists,"Assc Director, Data Science",Management,MG4,50,21,161600,206000,250500,U21-1
+Data Analytics,Data Scientists,"Director, Data Science",Management,MG5,51,21,173100,225000,277000,U22-1
+Data Analytics,Data Scientists,"Sr Director, Data Science",Management,MG6,52,24,207700,270000,332300,U24-1
+Data Analytics,Statistician / Mathematician,Statistician  I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Data Analytics,Statistician / Mathematician,Statistician  II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+Data Analytics,Statistician / Mathematician,Sr Statistician  I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Data Analytics,Statistician / Mathematician,Sr Statistician  II,Technical Professional,TP4,42,17,119800,149800,179700,U17-1
+Data Analytics,Statistician / Mathematician,Principal Statistician ,Technical Professional,TP5,43,19,138400,176400,214500,U19-1
+Data Analytics,Statistician / Mathematician,Sr Principal Statistician ,Technical Professional,TP6,44,20,149800,191000,232200,U20-1
+Data Analytics,Statistician / Mathematician,"Manager, Statistician ",Management,MG3,49,17,119800,149800,179700,U17-1
+Data Analytics,Statistician / Mathematician,"Sr Manager, Statistician ",Management,MG4,50,18,138400,176400,214500,U19-1
+Data Analytics,Statistician / Mathematician,"Assc Director, Statistician ",Management,MG4,50,18,138400,176400,214500,U19-1
+Data Analytics,Statistician / Mathematician,"Director, Statistician ",Management,MG5,51,21,161600,206000,250500,U21-1
+Data Analytics,Statistician / Mathematician,"Sr Director, Statistician ",Management,MG6,52,24,207700,270000,332300,U24-1
+Data Management,Data Engineering,Data Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Data Management,Data Engineering,Data Engineer II,Technical Professional,TP2,40,14,91700,114600,137600,U14-1
+Data Management,Data Engineering,Sr Data Engineer I,Technical Professional,TP3,41,16,109900,137400,164900,U16-1
+Data Management,Data Engineering,Sr Data Engineer II,Technical Professional,TP4,42,18,126900,161800,196700,U18-1
+Data Management,Data Engineering,Principal Data Engineer,Technical Professional,TP5,43,19,138400,176400,214500,U19-1
+Data Management,Data Engineering,Sr Principal Data Engineer,Technical Professional,TP6,44,21,161600,206000,250500,U21-1
+Data Management,Data Engineering,"Manager, Data Engineering",Management,MG3,49,17,119800,149800,179700,U17-1
+Data Management,Data Engineering,"Sr Manager, Data Engineering",Management,MG4,50,19,126900,161800,196700,U18-1
+Data Management,Data Engineering,"Assc Director, Data Engineering",Management,MG4,50,19,126900,161800,196700,U18-1
+Data Management,Data Engineering,"Director, Data Engineering",Management,MG5,51,21,188500,245000,301600,U23-1
+Data Management,Data Engineering,"Sr Director, Data Engineering",Management,MG6,52,23,224200,297000,369900,U25-1
+Data Management,Data Warehouse,Database Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Data Management,Data Warehouse,Database Engineer II,Technical Professional,TP2,40,12,75800,94700,113700,U12-1
+Data Management,Data Warehouse,Sr Database Engineer I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Data Management,Data Warehouse,Sr Database Engineer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Data Management,Data Warehouse,Principal Database Engineer,Technical Professional,TP5,43,19,138400,176400,214500,U19-1
+Data Management,Data Warehouse,Sr Principal Database Engineer,Technical Professional,TP6,44,21,161600,206000,250500,U21-1
+Data Management,Data Warehouse,"Manager, Data Warehouse",Management,MG3,49,17,119800,149800,179700,U17-1
+Data Management,Data Warehouse,"Sr Manager, Data Warehouse",Management,MG4,50,19,138400,176400,214500,U19-1
+Data Management,Data Warehouse,"Assc Director, Data Warehouse",Management,MG4,50,19,138400,176400,214500,U19-1
+Data Management,Data Warehouse,"Director, Data Warehouse",Management,MG5,51,20,149800,191000,232200,U20-1
+Data Management,Data Warehouse,"Sr Director, Data Warehouse",Management,MG6,52,24,207700,270000,332300,U24-1
+Data Management,IT-Executive,"VP, Data Management",Executive,EX1,54,25,224200,297000,369900,U25-1
+Data Management,IT-Executive,"SVP, Data Management",Executive,EX3,56,26,246800,327000,407200,U26-1
+Engineering,Algorithm Engineering,Algorithm Engineer I,Technical Professional,TP1,39,11,68900,86100,103400,U11-1
+Engineering,Algorithm Engineering,Algorithm Engineer II,Technical Professional,TP2,40,13,83400,104200,125100,U13-1
+Engineering,Algorithm Engineering,Sr Algorithm Engineer I,Technical Professional,TP3,41,15,100900,126100,151400,U15-1
+Engineering,Algorithm Engineering,Sr Algorithm Engineer II,Technical Professional,TP4,42,17,119800,149800,179700,U17-1
+Engineering,Algorithm Engineering,Principal Algorithm Engineer,Technical Professional,TP5,43,19,138400,176400,214500,U19-1
+Engineering,Algorithm Engineering,Sr Principal Algorithm Engineer,Technical Professional,TP6,44,21,161600,206000,250500,U21-1
+Engineering,Algorithm Engineering,"Manager, Algorithm Engineering",Management,MG3,49,18,126900,161800,196700,U18-1
+Engineering,Algorithm Engineering,"Sr Manager, Algorithm Engineering",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,Algorithm Engineering,"Assc Director, Algorithm Engineering",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,Algorithm Engineering,"Director, Algorithm Engineering",Management,MG5,51,22,173100,225000,277000,U22-1
+Engineering,Algorithm Engineering,"Sr Director, Algorithm Engineering",Management,MG6,52,23,188500,245000,301600,U23-1
+Engineering,Compliance Engineering,Compliance Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Engineering,Compliance Engineering,Compliance Engineer II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+Engineering,Compliance Engineering,Sr Compliance Engineer I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Engineering,Compliance Engineering,Sr Compliance Engineer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Engineering,Compliance Engineering,Principal Compliance Engineer,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+Engineering,Compliance Engineering,Sr Principal Compliance Engineer,Technical Professional,TP6,44,20,149800,191000,232200,U20-1
+Engineering,Compliance Engineering,"Manager, Compliance Engineering",Management,MG3,49,17,119800,149800,179700,U17-1
+Engineering,Compliance Engineering,"Sr Manager, Compliance Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Compliance Engineering,"Assc Director, Compliance Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Compliance Engineering,"Director, Compliance Engineering",Management,MG5,51,21,161600,206000,250500,U21-1
+Engineering,Compliance Engineering,"Sr Director, Compliance Engineering",Management,MG6,52,22,173100,225000,277000,U22-1
+Engineering,Dev Ops Engineering,DevOps Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Engineering,Dev Ops Engineering,DevOps Engineer II,Technical Professional,TP2,40,13,83400,104200,125100,U13-1
+Engineering,Dev Ops Engineering,Sr DevOps Engineer I,Technical Professional,TP3,41,16,109900,137400,164900,U16-1
+Engineering,Dev Ops Engineering,Sr DevOps Engineer II,Technical Professional,TP4,42,18,126900,161800,196700,U18-1
+Engineering,Dev Ops Engineering,Principal DevOps Engineer,Technical Professional,TP5,43,20,149800,191000,232200,U20-1
+Engineering,Dev Ops Engineering,Principal DevOps Engineer - CAN,Technical Professional,TP5,43,20,149800,191000,232200,U20-1
+Engineering,Dev Ops Engineering,Sr Principal DevOps Engineer,Technical Professional,TP6,44,22,188500,245000,301600,U23-1
+Engineering,Dev Ops Engineering,"Manager, DevOps Engineering",Management,MG3,49,17,119800,149800,179700,U17-1
+Engineering,Dev Ops Engineering,"Sr Manager, DevOps Engineering",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,Dev Ops Engineering,"Assc Director, DevOps Engineering",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,Dev Ops Engineering,"Director, DevOps Engineering",Management,MG5,51,21,161600,206000,250500,U21-1
+Engineering,Dev Ops Engineering,"Sr Director, DevOps Engineering",Management,MG6,52,22,173100,225000,277000,U22-1
+Engineering,Electrical Engineering,Electrical Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Engineering,Electrical Engineering,Electrical Engineer II,Technical Professional,TP2,40,12,75800,94700,113700,U12-1
+Engineering,Electrical Engineering,Sr Electrical Engineer I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Engineering,Electrical Engineering,Sr Electrical Engineer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Engineering,Electrical Engineering,Principal Electrical Engineer,Technical Professional,TP5,43,19,138400,176400,214500,U19-1
+Engineering,Electrical Engineering,Sr Principal Electrical Engineer,Technical Professional,TP6,44,21,161600,206000,250500,U21-1
+Engineering,Electrical Engineering,"Manager, Electrical Engineering",Management,MG3,49,17,119800,149800,179700,U17-1
+Engineering,Electrical Engineering,"Sr Manager, Electrical Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Electrical Engineering,"Assc Director, Electrical Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Electrical Engineering,"Director, Electrical Engineering",Management,MG5,51,21,161600,206000,250500,U21-1
+Engineering,Electrical Engineering,"Sr Director, Electrical Engineering",Management,MG6,52,22,173100,225000,277000,U22-1
+Engineering,Electrical Test Engineering,Electrical Test Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Engineering,Electrical Test Engineering,Electrical Test Engineer II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+Engineering,Electrical Test Engineering,Sr Electrical Test Engineer I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Engineering,Electrical Test Engineering,Sr Electrical Test Engineer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Engineering,Electrical Test Engineering,Principal Electrical Test Engineer,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+Engineering,Electrical Test Engineering,Sr Principal Electrical Test Engineer,Technical Professional,TP6,44,20,149800,191000,232200,U20-1
+Engineering,Electrical Test Engineering,"Manager, Electrical Test Engineering",Management,MG3,49,17,119800,149800,179700,U17-1
+Engineering,Electrical Test Engineering,"Sr Manager, Electrical Test Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Electrical Test Engineering,"Assc Director, Electrical Test Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Electrical Test Engineering,"Director, Electrical Test Engineering",Management,MG5,51,21,161600,206000,250500,U21-1
+Engineering,Electrical Test Engineering,"Sr Director, Electrical Test Engineering",Management,MG6,52,22,173100,225000,277000,U22-1
+Engineering,Engineering-Executive,"VP, DevOps Engineering",Executive,EX1,54,25,,,,U25-1
+Engineering,Engineering-Executive,"VP, Development Engineering",Executive,EX1,54,24,207700,270000,332300,U24-1
+Engineering,Engineering-Executive,"SVP, Development Engineering",Executive,EX3,56,26,246800,327000,407200,U26-1
+Engineering,Engineering-Executive,"SVP, DevOps Engineering",Executive,EX3,56,27,,,,U27-1
+Engineering,Mechanical Designers,Mechanical Designer I,Technical Support,TS1,9,6,39400,49300,59100,U6-1
+Engineering,Mechanical Designers,Mechanical Designer II,Technical Support,TS2,10,7,44200,55300,66300,U7-1
+Engineering,Mechanical Designers,Sr Mechanical Designer I,Technical Support,TS3,11,9,55400,69300,83100,U9-1
+Engineering,Mechanical Designers,Sr Mechanical Designer II,Technical Support,TS4,12,11,68900,86100,103400,U11-1
+Engineering,Mechanical Designers,"Supervisor, Mechanical Design",Management,MG1,47,11,68900,86100,103400,U11-1
+Engineering,Mechanical Designers,"Sr Supervisor, Mechanical Design",Management,MG2,48,14,91700,114600,137600,U14-1
+Engineering,Mechanical Designers,"Manager, Mechanical Design",Management,MG3,49,16,109900,137400,164900,U16-1
+Engineering,Mechanical Designers,"Sr Manager, Mechanical Design",Management,MG4,50,18,126900,161800,196700,U18-1
+Engineering,Mechanical Designers,"Assc Director, Mechanical Design",Management,MG4,50,18,126900,161800,196700,U18-1
+Engineering,Mechanical Designers,"Director, Mechanical Design",Management,MG5,51,19,149800,191000,232200,U20-1
+Engineering,Mechanical Designers,"Sr Director, Mechanical Design",Management,MG6,52,21,161600,206000,250500,U21-1
+Engineering,Mechanical Engineering,Mechanical Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Engineering,Mechanical Engineering,Mechanical Engineer II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+Engineering,Mechanical Engineering,Sr Mechanical Engineer I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Engineering,Mechanical Engineering,Sr Mechanical Engineer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Engineering,Mechanical Engineering,Principal Mechanical Engineer,Technical Professional,TP5,43,17,119800,149800,179700,U17-1
+Engineering,Mechanical Engineering,Sr Principal Mechanical Engineer,Technical Professional,TP6,44,19,138400,176400,214500,U19-1
+Engineering,Mechanical Engineering,"Supervisor, Mechanical Engineering",Management,MG1,47,13,83400,104200,125100,U13-1
+Engineering,Mechanical Engineering,"Sr Supervisor, Mechanical Engineering",Management,MG2,48,15,100900,126100,151400,U15-1
+Engineering,Mechanical Engineering,"Manager, Mechanical Engineering",Management,MG3,49,17,119800,149800,179700,U17-1
+Engineering,Mechanical Engineering,"Sr Manager, Mechanical Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Mechanical Engineering,"Assc Director, Mechanical Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Mechanical Engineering,"Director, Mechanical Engineering",Management,MG5,51,21,161600,206000,250500,U21-1
+Engineering,Mechanical Engineering,"Sr Director, Mechanical Engineering",Management,MG6,52,22,173100,225000,277000,U22-1
+Engineering,Product Dev Engineering,Product Development Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Engineering,Product Dev Engineering,Product Development Engineer II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+Engineering,Product Dev Engineering,Sr Product Development Engineer I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Engineering,Product Dev Engineering,Sr Product Development Engineer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Engineering,Product Dev Engineering,Principal Product Development Engineer,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+Engineering,Product Dev Engineering,Sr Principal Product Development Engineer,Technical Professional,TP6,44,20,149800,191000,232200,U20-1
+Engineering,Product Dev Engineering,"Manager, Product Development Engineering",Management,MG3,49,16,109900,137400,164900,U16-1
+Engineering,Product Dev Engineering,"Sr Manager, Product Development Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Product Dev Engineering,"Assc Director, Product Development Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Product Dev Engineering,"Director, Product Development Engineering",Management,MG5,51,19,149800,191000,232200,U20-1
+Engineering,Product Dev Engineering,"Sr Director, Product Development Engineering",Management,MG6,52,21,161600,206000,250500,U21-1
+Engineering,Reliability Engineering,Reliability Engineer I,Technical Professional,TP1,39,9,55400,69300,83100,U9-1
+Engineering,Reliability Engineering,Reliability Engineer II,Technical Professional,TP2,40,12,75800,94700,113700,U12-1
+Engineering,Reliability Engineering,Sr Reliability Engineer I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Engineering,Reliability Engineering,Sr Reliability Engineer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Engineering,Reliability Engineering,Principal Reliability Engineer,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+Engineering,Reliability Engineering,Sr Principal Reliability Engineer,Technical Professional,TP6,44,19,138400,176400,214500,U19-1
+Engineering,Reliability Engineering,"Manager, Reliability Engineering",Management,MG3,49,17,109900,137400,164900,U16-1
+Engineering,Reliability Engineering,"Sr Manager, Reliability Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Reliability Engineering,"Assc Director, Reliability Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Reliability Engineering,"Director, Reliability Engineering",Management,MG5,51,20,149800,191000,232200,U20-1
+Engineering,Reliability Engineering,"Sr Director, Reliability Engineering",Management,MG6,52,22,173100,225000,277000,U22-1
+Engineering,Software Architects,Software Architect I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Engineering,Software Architects,Software Architect II,Technical Professional,TP2,40,13,83400,104200,125100,U13-1
+Engineering,Software Architects,Sr Software Architect I,Technical Professional,TP3,41,16,109900,137400,164900,U16-1
+Engineering,Software Architects,Sr Software Architect II,Technical Professional,TP4,42,17,119800,149800,179700,U17-1
+Engineering,Software Architects,Principal Software Architect,Technical Professional,TP5,43,20,149800,191000,232200,U20-1
+Engineering,Software Architects,Sr Principal Software Architect,Technical Professional,TP6,44,22,173100,225000,277000,U22-1
+Engineering,Software Architects,"Manager, Software Architects",Management,MG3,49,18,126900,161800,196700,U18-1
+Engineering,Software Architects,"Sr Manager, Software Architects",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,Software Architects,"Assc Director, Software Architects",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,Software Architects,"Director, Software Architects",Management,MG5,51,22,173100,225000,277000,U22-1
+Engineering,Software Architects,"Sr Director, Software Architects",Management,MG6,52,23,188500,245000,301600,U23-1
+Engineering,Software Engineering,Software Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Engineering,Software Engineering,Software Engineer II,Technical Professional,TP2,40,13,83400,104200,125100,U13-1
+Engineering,Software Engineering,Sr Software Engineer I,Technical Professional,TP3,41,16,109900,137400,164900,U16-1
+Engineering,Software Engineering,Sr Software Engineer II,Technical Professional,TP4,42,17,119800,149800,179700,U17-1
+Engineering,Software Engineering,Principal Software Engineer,Technical Professional,TP5,43,20,149800,191000,232200,U20-1
+Engineering,Software Engineering,Sr Principal Software Engineer,Technical Professional,TP6,44,22,173100,225000,277000,U22-1
+Engineering,Software Engineering,Distinguished Engineer,Technical Professional,TP7,45,23,188500,245000,301600,U23-1
+Engineering,Software Engineering,Engineering Fellow,Technical Professional,TP8,46,25,224200,297000,369900,U25-1
+Engineering,Software Engineering,"Manager, Software Engineering",Management,MG3,49,18,126900,161800,196700,U18-1
+Engineering,Software Engineering,"Sr Manager, Software Engineering",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,Software Engineering,"Assc Director, Software Engineering",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,Software Engineering,"Director, Software Engineering",Management,MG5,51,22,173100,225000,277000,U22-1
+Engineering,Software Engineering,"Sr Director, Software Engineering",Management,MG6,52,23,188500,245000,301600,U23-1
+Engineering,Software Engineering-Executive,"VP, Software Engineering",Executive,EX1,54,25,224200,297000,369900,U25-1
+Engineering,Software Engineering-Executive,"SVP, Software Engineering",Executive,EX3,56,27,270900,359000,447000,U27-1
+Engineering,Software QA Engineering,Software QA Engineer I,Technical Professional,TP1,39,9,55400,69300,83100,U9-1
+Engineering,Software QA Engineering,Software QA Engineer II,Technical Professional,TP2,40,12,75800,94700,113700,U12-1
+Engineering,Software QA Engineering,Sr Software QA Engineer I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Engineering,Software QA Engineering,Sr Software QA Engineer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Engineering,Software QA Engineering,Principal Software QA Engineer,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+Engineering,Software QA Engineering,Sr Principal Software QA Engineer,Technical Professional,TP6,44,20,149800,191000,232200,U20-1
+Engineering,Software QA Engineering,"Supervisor, Software QA Engineering",Management,MG1,47,12,75800,94700,113700,U12-1
+Engineering,Software QA Engineering,"Sr Supervisor, Software QA Engineering",Management,MG2,48,15,100900,126100,151400,U15-1
+Engineering,Software QA Engineering,"Manager, Software QA Engineering",Management,MG3,49,17,119800,149800,179700,U17-1
+Engineering,Software QA Engineering,"Sr Manager, Software QA Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Software QA Engineering,"Assc Director, Software QA Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Software QA Engineering,"Director, Software QA Engineering",Management,MG5,51,20,149800,191000,232200,U20-1
+Engineering,Software QA Engineering,"Sr Director, Software QA Engineering",Management,MG6,52,22,173100,225000,277000,U22-1
+Engineering,SW Test Engineering,Software Test Engineer I,Technical Professional,TP1,39,11,61500,76900,92300,U10-1
+Engineering,SW Test Engineering,Software Test Engineer II,Technical Professional,TP2,40,13,83400,104200,125100,U13-1
+Engineering,SW Test Engineering,Sr Software Test Engineer I,Technical Professional,TP3,41,15,109900,137400,164900,U16-1
+Engineering,SW Test Engineering,Sr Software Test Engineer II,Technical Professional,TP4,42,17,119800,149800,179700,U17-1
+Engineering,SW Test Engineering,Principal Software Test Engineer,Technical Professional,TP5,43,20,149800,191000,232200,U20-1
+Engineering,SW Test Engineering,Sr Principal Software Test Engineer,Technical Professional,TP6,44,22,173100,225000,277000,U22-1
+Engineering,SW Test Engineering,"Supervisor, Software Test Engineering",Management,MG1,47,11,68900,86100,103400,U11-1
+Engineering,SW Test Engineering,"Sr Supervisor, Software Test Engineering",Management,MG2,48,17,83400,104200,125100,U13-1
+Engineering,SW Test Engineering,"Manager, Software Test Engineering",Management,MG3,49,19,100900,126100,151400,U15-1
+Engineering,SW Test Engineering,"Sr Manager, Software Test Engineering",Management,MG4,50,21,149800,191000,232200,U20-1
+Engineering,SW Test Engineering,"Assc Director, Software Test Engineering",Management,MG4,50,21,149800,191000,232200,U20-1
+Engineering,SW Test Engineering,"Director, Software Test Engineering",Management,MG5,51,22,173100,225000,277000,U22-1
+Engineering,SW Test Engineering,"Sr Director, Software Test Engineering",Management,MG6,52,24,188500,245000,301600,U23-1
+Engineering,SW Engineering Technician,SW Engineering Technician I,Technical Support,TS1,9,6,39400,49300,59100,U6-1
+Engineering,SW Engineering Technician,SW Engineering Technician II,Technical Support,TS2,10,7,44200,55300,66300,U7-1
+Engineering,SW Engineering Technician,Sr SW Engineering Technician I,Technical Support,TS3,11,9,55400,69300,83100,U9-1
+Engineering,SW Engineering Technician,Sr SW Engineering Technician II,Technical Support,TS4,12,10,61500,76900,92300,U10-1
+Engineering,SW Engineering Technician,"Supervisor, SW Engineering Technicians",Management,MG1,47,12,75800,94700,113700,U12-1
+Engineering,SW Engineering Technician,"Sr Supervisor, SW Engineering Technicians",Management,MG2,48,15,83400,104200,125100,U13-1
+Engineering,SW Engineering Technician,"Manager, SW Engineering Technicians",Management,MG3,49,17,100900,126100,151400,U15-1
+Engineering,SW Engineering Technician,"Sr Manager, SW Engineering Technicians",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,SW Engineering Technician,"Assc Director, SW Engineering Technicians",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,SW Engineering Technician,"Director, SW Engineering Technicians",Management,MG5,51,20,149800,191000,232200,U20-1
+Engineering,SW Engineering Technician,"Sr Director, SW Engineering Technicians",Management,MG6,52,22,173100,225000,277000,U22-1
+Engineering,Systems Engineering,Systems Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Engineering,Systems Engineering,Systems Engineer II,Technical Professional,TP2,40,12,75800,94700,113700,U12-1
+Engineering,Systems Engineering,Sr Systems Engineer I,Technical Professional,TP3,41,15,100900,126100,151400,U15-1
+Engineering,Systems Engineering,Sr Systems Engineer II,Technical Professional,TP4,42,17,119800,149800,179700,U17-1
+Engineering,Systems Engineering-Executive,"VP, Systems Engineering",Executive,EX1,54,25,224200,297000,369900,U25-1
+Engineering,Systems Engineering-Executive,"SVP, Systems Engineering",Executive,EX3,56,27,270900,359000,447000,U27-1
+Engineering,Systems Engineering,Principal Systems Engineer,Technical Professional,TP5,43,19,138400,176400,214500,U19-1
+Engineering,Systems Engineering,Sr Principal Systems Engineer,Technical Professional,TP6,44,22,173100,225000,277000,U22-1
+Engineering,Systems Engineering,"Manager, Systems Engineering",Management,MG3,49,18,126900,161800,196700,U18-1
+Engineering,Systems Engineering,"Sr Manager, Systems Engineering",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,Systems Engineering,"Assc Director, Systems Engineering",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,Systems Engineering,"Director, Systems Engineering",Management,MG5,51,22,173100,225000,277000,U22-1
+Engineering,Systems Engineering,"Sr Director, Systems Engineering",Management,MG6,52,24,207700,270000,332300,U24-1
+Engineering,Software Testing,Software Test Assciate I,Technical Support,TS1,9,6,39400,49300,59100,U6-1
+Engineering,Software Testing,Software Test Assciate II,Technical Support,TS2,10,7,44200,55300,66300,U7-1
+Engineering,Software Testing,Sr Software Test Assciate I,Technical Support,TS3,11,8,49500,61900,74300,U8-1
+Engineering,Software Testing,Sr Software Test Assciate II,Technical Support,TS4,12,9,,,,U9-1
+Engineering,Test Engineering Technician,Engineering Technician I,Technical Support,TS1,9,5,39400,49300,59100,U6-1
+Engineering,Test Engineering Technician,Engineering Technician II,Technical Support,TS2,10,6,44200,55300,66300,U7-1
+Engineering,Test Engineering Technician,Sr Engineering Technician I,Technical Support,TS3,11,8,55400,69300,83100,U9-1
+Engineering,Test Engineering Technician,Sr Engineering Technician II,Technical Support,TS4,12,10,61500,76900,92300,U10-1
+Engineering,Test Engineering Technician,"Supervisor, Engineering Technicians",Management,MG1,47,12,75800,94700,113700,U12-1
+Engineering,Test Engineering Technician,"Sr Supervisor, Engineering Technicians",Management,MG2,48,14,83400,104200,125100,U13-1
+Engineering,Test Engineering Technician,"Manager, Engineering Technicians",Management,MG3,49,16,91700,114600,137600,U14-1
+Engineering,Test Engineering Technician,"Sr Manager, Engineering Technicians",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Test Engineering Technician,"Assc Director, Engineering Technicians",Management,MG4,50,19,138400,176400,214500,U19-1
+Engineering,Test Engineering Technician,"Director, Engineering Technicians",Management,MG5,51,21,161600,206000,250500,U21-1
+Engineering,Test Engineering Technician,"Sr Director, Engineering Technicians",Management,MG6,52,23,188500,245000,301600,U23-1
+Engineering,User Experience,UX Designer I,Technical Professional,TP1,39,11,68900,86100,103400,U11-1
+Engineering,User Experience,UX Designer II,Technical Professional,TP2,40,14,91700,114600,137600,U14-1
+Engineering,User Experience,Sr UX Designer I,Technical Professional,TP3,41,16,109900,137400,164900,U16-1
+Engineering,User Experience,Sr UX Designer II,Technical Professional,TP4,42,18,126900,161800,196700,U18-1
+Engineering,User Experience,Principal UX Designer,Technical Professional,TP5,43,21,161600,206000,250500,U21-1
+Engineering,User Experience,Sr Principal UX Designer,Technical Professional,TP6,44,22,173100,225000,277000,U22-1
+Engineering,User Experience,"Manager, UX Design",Management,MG3,49,18,126900,161800,196700,U18-1
+Engineering,User Experience,"Sr Manager, UX Design",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,User Experience,"Assc Director, UX Design",Management,MG4,50,20,149800,191000,232200,U20-1
+Engineering,User Experience,"Director, UX Design",Management,MG5,51,22,161600,206000,250500,U21-1
+Engineering,User Experience,"Sr Director, UX Design",Management,MG6,52,23,188500,245000,301600,U23-1
+Finance,Finance-Executive,"VP, Controller",Executive,EX1,54,24,207700,270000,332300,U24-1
+Finance,Finance-Executive,"VP, Finance",Executive,EX1,54,24,207700,270000,332300,U24-1
+Finance,Finance-Executive,"SVP, Controller",Executive,EX3,56,26,246800,327000,407200,U26-1
+Finance,Finance-Executive,"SVP, Finance",Executive,EX3,56,25,224200,297000,369900,U25-1
+Finance,Financial Planning & Analysis,Financial Analyst I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Finance,Financial Planning & Analysis,Financial Analyst II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Finance,Financial Planning & Analysis,Sr Financial Analyst I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Finance,Financial Planning & Analysis,Sr Financial Analyst II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Finance,Financial Planning & Analysis,Principal Financial Analyst,Business Professional,BP5,35,17,119800,149800,179700,U17-1
+Finance,Financial Planning & Analysis,Sr Principal Financial Analyst,Business Professional,BP6,36,19,138400,176400,214500,U19-1
+Finance,Financial Planning & Analysis,"Manager, Financial Planning & Analysis ",Management,MG3,49,16,109900,137400,164900,U16-1
+Finance,Financial Planning & Analysis,"Sr Manager, Financial Planning & Analysis ",Management,MG4,50,18,126900,161800,196700,U18-1
+Finance,Financial Planning & Analysis,"Assc Director, Financial Planning & Analysis ",Management,MG4,50,18,126900,161800,196700,U18-1
+Finance,Financial Planning & Analysis,"Director, Financial Planning & Analysis ",Management,MG5,51,20,149800,191000,232200,U20-1
+Finance,Financial Planning & Analysis,"Sr Director, Financial Planning & Analysis ",Management,MG6,52,23,188500,245000,301600,U23-1
+Finance,SOX Compliance,SOX Compliance Analyst I,Business Professional,BP1,31,7,49500,61900,74300,U8-1
+Finance,SOX Compliance,SOX Compliance Analyst II,Business Professional,BP2,32,9,61500,76900,92300,U10-1
+Finance,SOX Compliance,Sr SOX Compliance Analyst I,Business Professional,BP3,33,11,75800,94700,113700,U12-1
+Finance,SOX Compliance,Sr SOX Compliance Analyst II,Business Professional,BP4,34,16,100900,126100,151400,U15-1
+Finance,SOX Compliance,Principal SOX Compliance Analyst,Business Professional,BP5,35,18,126900,161800,196700,U18-1
+Finance,SOX Compliance,Sr Principal SOX Compliance Analyst,Business Professional,BP6,36,19,138400,176400,214500,U19-1
+Finance,SOX Compliance,"Manager, SOX Compliance",Management,MG3,49,15,100900,126100,151400,U15-1
+Finance,SOX Compliance,"Sr Manager, SOX Compliance",Management,MG4,50,19,138400,176400,214500,U19-1
+Finance,SOX Compliance,"Assc Director, SOX Compliance",Management,MG4,50,19,138400,176400,214500,U19-1
+Finance,SOX Compliance,"Director, SOX Compliance",Management,MG5,51,20,149800,191000,232200,U20-1
+Finance,SOX Compliance,"Sr Director, SOX Compliance",Management,MG6,52,23,188500,245000,301600,U23-1
+Finance,Stock Administration,Stock Administrator I,Business Professional,BP1,31,10,49500,61900,74300,U8-1
+Finance,Stock Administration,Stock Administrator II,Business Professional,BP2,32,11,55400,69300,83100,U9-1
+Finance,Stock Administration,Sr Stock Administrator I,Business Professional,BP3,33,14,75800,94700,113700,U12-1
+Finance,Stock Administration,Sr Stock Administrator II,Business Professional,BP4,34,16,91700,114600,137600,U14-1
+Finance,Stock Administration,Principal Stock Administrator,Business Professional,BP5,35,18,109900,137400,164900,U16-1
+Finance,Stock Administration,Sr Principal Stock Administrator,Business Professional,BP6,36,20,126900,161800,196700,U18-1
+Finance,Stock Administration,"Manager, Stock Administration",Management,MG3,49,16,109900,137400,164900,U16-1
+Finance,Stock Administration,"Sr Manager, Stock Administration",Management,MG4,50,19,138400,176400,214500,U19-1
+Finance,Stock Administration,"Assc Director, Stock Administration",Management,MG4,50,19,138400,176400,214500,U19-1
+Finance,Stock Administration,"Director, Stock Administration",Management,MG5,51,21,161600,206000,250500,U21-1
+Finance,Stock Administration,"Sr Director, Stock Administration",Management,MG6,52,22,173100,225000,277000,U22-1
+Finance & Accounting,Corporate Tax,Corporate Tax Analyst I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Finance & Accounting,Corporate Tax,Corporate Tax Analyst II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Finance & Accounting,Corporate Tax,Sr Corporate Tax Analyst I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Finance & Accounting,Corporate Tax,Sr Corporate Tax Analyst II,Business Professional,BP4,34,14,91700,114600,137600,U14-1
+Finance & Accounting,Corporate Tax,Principal Corporate Tax Analyst,Business Professional,BP5,35,19,138400,176400,214500,U19-1
+Finance & Accounting,Corporate Tax,Sr Principal Corporate Tax Analyst,Business Professional,BP6,36,22,173100,225000,277000,U22-1
+Finance & Accounting,Corporate Tax,"Manager,  Corporate Tax ",Management,MG3,49,16,109900,137400,164900,U16-1
+Finance & Accounting,Corporate Tax,"Sr Manager,  Corporate Tax ",Management,MG4,50,19,138400,176400,214500,U19-1
+Finance & Accounting,Corporate Tax,"Assc Director, Corporate Tax",Management,MG4,50,19,138400,176400,214500,U19-1
+Finance & Accounting,Corporate Tax,"Director,  Corporate Tax ",Management,MG5,51,21,161600,206000,250500,U21-1
+Finance & Accounting,Corporate Tax,"Sr Director,  Corporate Tax ",Management,MG6,52,23,188500,245000,301600,U23-1
+Finance & Accounting,Financial Reporting,Financial Reporting Analyst I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Finance & Accounting,Financial Reporting,Financial Reporting Analyst II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Finance & Accounting,Financial Reporting,Sr Financial Reporting Analyst I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Finance & Accounting,Financial Reporting,Sr Financial Reporting Analyst II,Business Professional,BP4,34,13,100900,126100,151400,U15-1
+Finance & Accounting,Financial Reporting,Principal Financial Reporting Analyst,Business Professional,BP5,35,16,109900,137400,164900,U16-1
+Finance & Accounting,Financial Reporting,Sr Principal Financial Reporting Analyst,Business Professional,BP6,36,19,138400,176400,214500,U19-1
+Finance & Accounting,Financial Reporting,"Manager, Financial Reporting ",Management,MG3,49,15,100900,126100,151400,U15-1
+Finance & Accounting,Financial Reporting,"Sr Manager, Financial Reporting ",Management,MG4,50,18,126900,161800,196700,U18-1
+Finance & Accounting,Financial Reporting,"Director, Financial Reporting ",Management,MG5,51,20,149800,191000,232200,U20-1
+Finance & Accounting,Financial Reporting,"Sr Director, Financial Reporting ",Management,MG6,52,22,173100,225000,277000,U22-1
+Finance & Accounting,Payroll,Payroll Administrator I,Business Support,BS1,4,5,35300,44100,53000,U5-1
+Finance & Accounting,Payroll,Payroll Administrator II,Business Support,BS2,5,6,39400,49300,59100,U6-1
+Finance & Accounting,Payroll,Sr Payroll Administrator I,Business Support,BS3,6,7,44200,55300,66300,U7-1
+Finance & Accounting,Payroll,Sr Payroll Administrator II,Business Support,BS4,7,9,55400,69300,83100,U9-1
+Finance & Accounting,Payroll,Payroll Analyst I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Finance & Accounting,Payroll,Payroll Analyst II,Business Professional,BP2,32,9,55400,69300,83100,U9-1
+Finance & Accounting,Payroll,Sr Payroll Analyst I,Business Professional,BP3,33,11,68900,86100,103400,U11-1
+Finance & Accounting,Payroll,Sr Payroll Analyst II,Business Professional,BP4,34,13,83400,104200,125100,U13-1
+Finance & Accounting,Payroll,Principal Payroll Analyst,Business Professional,BP5,35,18,126900,161800,196700,U18-1
+Finance & Accounting,Payroll,Sr Principal Payroll Analyst,Business Professional,BP6,36,20,149800,191000,232200,U20-1
+Finance & Accounting,Payroll,"Manager, Payroll",Management,MG3,49,15,100900,126100,151400,U15-1
+Finance & Accounting,Payroll,"Sr Manager, Payroll",Management,MG4,50,17,119800,149800,179700,U17-1
+Finance & Accounting,Payroll,"Director, Payroll",Management,MG5,51,19,138400,176400,214500,U19-1
+Finance & Accounting,Payroll,"Sr Director, Payroll",Management,MG6,52,22,173100,225000,277000,U22-1
+Behavioral Science,Consumer Insights,Behavioral Science Researcher I,Business Professional,BP1,31,9,55400,69300,83100,U9-1
+Behavioral Science,Consumer Insights,Behavioral Science Researcher II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Behavioral Science,Consumer Insights,Sr Behavioral Science Researcher I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Behavioral Science,Consumer Insights,Sr Behavioral Science Researcher II,Business Professional,BP4,34,16,109900,137400,164900,U16-1
+Behavioral Science,Consumer Insights,Principal Behavioral Science Researcher,Business Professional,BP5,35,20,149800,191000,232200,U20-1
+Behavioral Science,Consumer Insights,Sr Principal Behavioral Science Researcher,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+Behavioral Science,Consumer Insights,"Manager, Behavioral Science Research",Management,MG3,49,15,100900,126100,151400,U15-1
+Behavioral Science,Consumer Insights,"Sr Manager, Behavioral Science Research",Management,MG4,50,17,119800,149800,179700,U17-1
+Behavioral Science,Consumer Insights,"Assc Director, Behavioral Science Research",Management,MG4,50,17,119800,149800,179700,U17-1
+Behavioral Science,Consumer Insights,"Director, Behavioral Science Research",Management,MG5,51,19,138400,176400,214500,U19-1
+Behavioral Science,Consumer Insights,"Sr Director, Behavioral Science Research",Management,MG6,52,23,188500,245000,301600,U23-1
+Behavioral Science,Human Factors,Human Factors Researcher I,Technical Professional,TP1,39,11,68900,86100,103400,U11-1
+Behavioral Science,Human Factors,Human Factors Researcher II,Technical Professional,TP2,40,14,91700,114600,137600,U14-1
+Behavioral Science,Human Factors,Sr Human Factors Researcher I,Technical Professional,TP3,41,16,109900,137400,164900,U16-1
+Behavioral Science,Human Factors,Sr Human Factors Researcher II,Technical Professional,TP4,42,18,126900,161800,196700,U18-1
+Behavioral Science,Human Factors,Principal Human Factors Researcher,Technical Professional,TP5,43,21,161600,206000,250500,U21-1
+Behavioral Science,Human Factors,Sr Principal Human Factors Researcher,Technical Professional,TP6,44,22,173100,225000,277000,U22-1
+Behavioral Science,Human Factors,"Manager, Human Factors Research",Management,MG3,49,18,126900,161800,196700,U18-1
+Behavioral Science,Human Factors,"Sr Manager, Human Factors Research",Management,MG4,50,20,149800,191000,232200,U20-1
+Behavioral Science,Human Factors,"Assc Director, Human Factors Research",Management,MG4,50,20,149800,191000,232200,U20-1
+Behavioral Science,Human Factors,"Director, Human Factors Research",Management,MG5,51,22,161600,206000,250500,U21-1
+Behavioral Science,Human Factors,"Sr Director, Human Factors Research",Management,MG6,52,23,188500,245000,301600,U23-1
+Inside Sales,Inbound Pump Sales,"Specialist 1, Inbound Pump Sales",Sales Support,SS1,14,5,35300,44100,53000,U5-1
+Inside Sales,Inbound Pump Sales,"Specialist 2, Inbound Pump Sales",Sales Support,SS2,15,6,39400,49300,59100,U6-1
+Inside Sales,Inbound Pump Sales,"Specialist 3, Inbound Pump Sales",Sales Support,SS3,16,7,44200,55300,66300,U7-1
+Inside Sales,Inbound Pump Sales,"Specialist 4, Inbound Pump Sales",Sales Support,SS4,17,9,55400,69300,83100,U9-1
+Inside Sales,Inbound Pump Sales,"Supervisor, Inbound Pump Sales",Management,MG1,47,9,55400,69300,83100,U9-1
+Inside Sales,Inbound Pump Sales,"Sr Supervisor, Inbound Pump Sales",Management,MG2,48,10,61500,76900,92300,U10-1
+Inside Sales,Inbound Pump Sales,"Manager, Inbound Pump Sales",Management,MG3,49,13,75800,94700,113700,U12-1
+Inside Sales,Inbound Pump Sales,"Sr Manager, Inbound Pump Sales",Management,MG4,50,15,100900,126100,151400,U15-1
+Inside Sales,Pump Sales,"Specialist 1, Pump Sales",Sales Support,SS1,14,5,35300,44100,53000,U5-1
+Inside Sales,Pump Sales,"Specialist 2, Pump Sales",Sales Support,SS2,15,6,39400,49300,59100,U6-1
+Inside Sales,Pump Sales,"Specialist 3, Pump Sales",Sales Support,SS3,16,7,44200,55300,66300,U7-1
+Inside Sales,Pump Sales,"Specialist 4, Pump Sales",Sales Support,SS4,17,9,55400,69300,83100,U9-1
+Inside Sales,Pump Sales,"Supervisor, Pump Sales",Management,MG1,47,9,55400,69300,83100,U9-1
+Inside Sales,Pump Sales,"Sr Supervisor, Pump Sales",Management,MG2,48,10,61500,76900,92300,U10-1
+Inside Sales,Pump Sales,"Manager, Pump Sales",Management,MG3,49,13,75800,94700,113700,U12-1
+Inside Sales,Pump Sales,"Sr Manager, Pump Sales",Management,MG4,50,15,100900,126100,151400,U15-1
+Inside Sales,Pump Sales,"Assc Director, Pump Sales",Management,MG4,50,15,100900,126100,151400,U15-1
+Inside Sales,Pump Sales,"Director, Pump Sales",Management,MG5,51,17,119800,149800,179700,U17-1
+Inside Sales,Pump Sales,"Sr Director, Pump Sales",Management,MG6,52,20,149800,191000,232200,U20-1
+Inside Sales,Renewals,"Specialist 1, Renewals",Sales Support,SS1,14,6,39400,49300,59100,U6-1
+Inside Sales,Renewals,"Specialist 2, Renewals",Sales Support,SS2,15,7,44200,55300,66300,U7-1
+Inside Sales,Renewals,"Specialist 3, Renewals",Sales Support,SS3,16,9,49500,61900,74300,U8-1
+Inside Sales,Renewals,"Specialist 4, Renewals",Sales Support,SS4,17,10,61500,76900,92300,U10-1
+Inside Sales,Renewals,"Supervisor, Renewals",Management,MG1,47,9,55400,69300,83100,U9-1
+Inside Sales,Renewals,"Sr Supervisor, Renewals",Management,MG2,48,11,61500,76900,92300,U10-1
+Inside Sales,Renewals,"Manager, Renewals",Management,MG3,49,13,83400,104200,125100,U13-1
+Inside Sales,Renewals,"Sr Manager, Renewals",Management,MG4,50,16,109900,137400,164900,U16-1
+Inside Sales,Renewals,"Director, Renewals",Management,MG5,51,18,126900,161800,196700,U18-1
+Inside Sales,Renewals,"Sr Director, Renewals",Management,MG6,52,21,161600,206000,250500,U21-1
+Sales,Inside Sales-Executive,"VP, Sales",Executive,EX1,54,24,207700,270000,332300,U24-1
+Sales,Inside Sales-Executive,"SVP, Sales",Executive,EX3,56,26,246800,327000,407200,U26-1
+IT,Applications Development,Applications Developer I,Technical Professional,TP1,39,9,61500,76900,92300,U10-1
+IT,Applications Development,Applications Developer II,Technical Professional,TP2,40,11,75800,94700,113700,U12-1
+IT,Applications Development,Sr Applications Developer I,Technical Professional,TP3,41,14,100900,126100,151400,U15-1
+IT,Applications Development,Sr Applications Developer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+IT,Applications Development,Principal Applications Developer,Technical Professional,TP5,43,17,126900,161800,196700,U18-1
+IT,Applications Development,Sr Principal Applications Developer,Technical Professional,TP6,44,20,161600,206000,250500,U21-1
+IT,Applications Development,"Manager, Applications Development",Management,MG3,49,17,119800,149800,179700,U17-1
+IT,Applications Development,"Sr Manager, Applications Development",Management,MG4,50,19,138400,176400,214500,U19-1
+IT,Applications Development,"Assc Director, Applications Development",Management,MG4,50,19,138400,176400,214500,U19-1
+IT,Applications Development,"Director, Applications Development",Management,MG5,51,21,161600,206000,250500,U21-1
+IT,Applications Development,"Sr Director, Applications Development",Management,MG6,52,23,188500,245000,301600,U23-1
+IT,Business Systems,Business Systems Analyst I,Technical Professional,TP1,39,9,55400,69300,83100,U9-1
+IT,Business Systems,Business Systems Analyst II,Technical Professional,TP2,40,10,68900,86100,103400,U11-1
+IT,Business Systems,Sr Business Systems Analyst I,Technical Professional,TP3,41,13,83400,104200,125100,U13-1
+IT,Business Systems,Sr Business Systems Analyst II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+IT,Business Systems,Principal Business Systems Analyst,Technical Professional,TP5,43,19,138400,176400,214500,U19-1
+IT,Business Systems,Sr Principal Business Systems Analyst,Technical Professional,TP6,44,20,149800,191000,232200,U20-1
+IT,Business Systems,"Manager, Business Systems Analysis",Management,MG3,49,17,119800,149800,179700,U17-1
+IT,Business Systems,"Sr Manager, Business Systems Analysis",Management,MG4,50,20,149800,191000,232200,U20-1
+IT,Business Systems,"Assc Director, Business Systems Analysis",Management,MG4,50,20,149800,191000,232200,U20-1
+IT,Business Systems,"Director, Business Systems Analysis",Management,MG5,51,21,173100,225000,277000,U22-1
+IT,Business Systems,"Sr Director, Business Systems Analysis",Management,MG6,52,23,188500,245000,301600,U23-1
+IT,Data Analytics,Data Analyst I,Technical Professional,TP1,39,8,49500,61900,74300,U8-1
+IT,Data Analytics,Data Analyst II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+IT,Data Analytics,Sr Data Analyst I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+IT,Data Analytics,Sr Data Analyst II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+IT,Data Analytics,Principal Data Analyst ,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+IT,Data Analytics,Sr. Principal Data Analyst,Technical Professional,TP6,44,20,149800,191000,232200,U20-1
+IT,Data Analytics,"Manager, Data Analytics",Management,MG3,49,16,109900,137400,164900,U16-1
+IT,Data Analytics,"Sr Manager, Data Analytics",Management,MG4,50,18,126900,161800,196700,U18-1
+IT,Data Analytics,"Assc Director, Data Analytics",Management,MG4,50,18,126900,161800,196700,U18-1
+IT,Data Analytics,"Director, Data Analytics",Management,MG5,51,21,161600,206000,250500,U21-1
+IT,Data Analytics,"Sr Director, Data Analytics",Management,MG6,52,23,188500,245000,301600,U23-1
+IT,Data Management,Database Analyst I,Technical Professional,TP1,39,9,55400,69300,83100,U9-1
+IT,Data Management,Database Analyst II,Technical Professional,TP2,40,12,75800,94700,113700,U12-1
+IT,Data Management,Sr Database Analyst I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+IT,Data Management,Sr Database Analyst II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+IT,Data Management,Principal Database Analyst,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+IT,Data Management,Sr Principal Database Analyst,Technical Professional,TP6,44,18,138400,176400,214500,U19-1
+IT,Data Management,"Manager, Data Management",Management,MG3,49,18,126900,161800,196700,U18-1
+IT,Data Management,"Sr Manager, Data Management",Management,MG4,50,19,138400,176400,214500,U19-1
+IT,Data Management,"Assc Director, Data Management",Management,MG4,50,19,138400,176400,214500,U19-1
+IT,Data Management,"Director, Data Management",Management,MG5,51,19,149800,191000,232200,U20-1
+IT,Data Management,"Sr Director, Data Management",Management,MG6,52,23,188500,245000,301600,U23-1
+IT,Desktop Engineering,Desktop Engineer I,Technical Professional,TP1,39,8,49500,61900,74300,U8-1
+IT,Desktop Engineering,Desktop Engineer II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+IT,Desktop Engineering,Sr Desktop Engineer I,Technical Professional,TP3,41,13,83400,104200,125100,U13-1
+IT,Desktop Engineering,Sr Desktop Engineer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+IT,Desktop Engineering,Principal Desktop Engineer,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+IT,Desktop Engineering,Sr Principal Desktop Engineer,Technical Professional,TP6,44,20,149800,191000,232200,U20-1
+IT,Desktop Engineering,"Manager, Desktop Engineering",Management,MG3,49,16,109900,137400,164900,U16-1
+IT,Desktop Engineering,"Sr Manager, Desktop Engineering",Management,MG4,50,18,126900,161800,196700,U18-1
+IT,Desktop Engineering,"Assc Director, Desktop Engineering",Management,MG4,50,18,126900,161800,196700,U18-1
+IT,Desktop Engineering,"Director, Desktop Engineering",Management,MG5,51,20,149800,191000,232200,U20-1
+IT,Desktop Engineering,"Sr Director, Desktop Engineering",Management,MG6,52,22,173100,225000,277000,U22-1
+IT,Enterprise Applications,Applications Analyst I,Technical Professional,TP1,39,9,55400,69300,83100,U9-1
+IT,Enterprise Applications,Applications Analyst II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+IT,Enterprise Applications,Sr Applications Administrator I,Technical Professional,TP3,41,13,83400,104200,125100,U13-1
+IT,Enterprise Applications,Sr Applications Administrator II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+IT,Enterprise Applications,Principal Applications Administrator,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+IT,Enterprise Applications,Sr Principal Applications Administrator,Technical Professional,TP6,44,21,161600,206000,250500,U21-1
+IT,Enterprise Applications,"Manager, Enterprise Applications",Management,MG3,49,17,119800,149800,179700,U17-1
+IT,Enterprise Applications,"Sr Manager, Enterprise Applications",Management,MG4,50,19,138400,176400,214500,U19-1
+IT,Enterprise Applications,"Assc Director, Enterprise Applications",Management,MG4,50,19,138400,176400,214500,U19-1
+IT,Enterprise Applications,"Director, Enterprise Applications",Management,MG5,51,19,149800,191000,232200,U20-1
+IT,Enterprise Applications,"Sr Director, Enterprise Applications",Management,MG6,52,22,173100,225000,277000,U22-1
+IT,Help Desk,IT Technician I,Technical Support,TS1,9,5,35300,44100,53000,U5-1
+IT,Help Desk,IT Technician II,Technical Support,TS2,10,6,39400,49300,59100,U6-1
+IT,Help Desk,Sr IT Technician I,Technical Support,TS3,11,8,49500,61900,74300,U8-1
+IT,Help Desk,Sr IT Technician II,Technical Support,TS4,12,9,55400,69300,83100,U9-1
+IT,Help Desk,"Manager, Desktop Support",Management,MG3,49,15,100900,126100,151400,U15-1
+IT,Help Desk,"Sr Manager, Desktop Support",Management,MG4,50,17,119800,149800,179700,U17-1
+IT,Help Desk,"Assc Director, Desktop Support",Management,MG4,50,17,119800,149800,179700,U17-1
+IT,Help Desk,"Director, Desktop Support",Management,MG5,51,19,138400,176400,214500,U19-1
+IT,Help Desk,"Sr Director, Desktop Support",Management,MG6,52,22,173100,225000,277000,U22-1
+IT,Information Security,Security Analyst I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+IT,Information Security,Security Analyst II,Technical Professional,TP2,40,11,75800,94700,113700,U12-1
+IT,Information Security,Sr Security Analyst I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+IT,Information Security,Sr Security Analyst II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+IT,Information Security,Principal Security Analyst,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+IT,Information Security,Sr Principal Security Analyst,Technical Professional,TP6,44,20,149800,191000,232200,U20-1
+IT,Information Security,"Manager, Cyber Security",Management,MG3,49,17,119800,149800,179700,U17-1
+IT,Information Security,"Sr Manager, Cyber Security",Management,MG4,50,19,138400,176400,214500,U19-1
+IT,Information Security,"Assc Director, Cyber Security",Management,MG4,50,19,138400,176400,214500,U19-1
+IT,Information Security,"Director, Cyber Security",Management,MG5,51,21,161600,206000,250500,U21-1
+IT,Information Security,"Sr Director, Cyber Security",Management,MG6,52,23,188500,245000,301600,U23-1
+IT,IT-Executive,"VP, Data Analytics",Executive,EX1,54,23,207700,270000,332300,U24-1
+IT,IT-Executive,"VP, Cyber Security",Executive,EX1,54,23,207700,270000,332300,U24-1
+IT,IT-Executive,"VP, Data Management",Executive,EX1,54,25,224200,297000,369900,U25-1
+IT,IT-Executive,"VP, Data Management",Executive,EX1,54,25,224200,297000,369900,U25-1
+IT,IT-Executive,"VP, Applications Development",Executive,EX1,54,25,224200,297000,369900,U25-1
+IT,IT-Executive,"VP, Business Systems Analysis",Executive,EX1,54,25,224200,297000,369900,U25-1
+IT,IT-Executive,"VP, Desktop Engineering",Executive,EX1,54,24,207700,270000,332300,U24-1
+IT,IT-Executive,"VP, IT Operations",Executive,EX1,54,24,207700,270000,332300,U24-1
+IT,IT-Executive,"VP, Enterprise Applications",Executive,EX1,54,25,224200,297000,369900,U25-1
+IT,IT-Executive,"VP, System Administration",Executive,EX1,54,24,207700,270000,332300,U24-1
+IT,IT-Executive,"VP, System Integration",Executive,EX1,54,24,207700,270000,332300,U24-1
+IT,IT-Executive,"SVP, Data Analytics",Executive,EX3,56,27,270900,359000,447000,U27-1
+IT,IT-Executive,"SVP, Cyber Security",Executive,EX3,56,26,246800,327000,407200,U26-1
+IT,IT-Executive,"SVP, Data Management",Executive,EX3,56,26,246800,327000,407200,U26-1
+IT,IT-Executive,"SVP, Data Management",Executive,EX3,56,25,246800,327000,407200,U26-1
+IT,IT-Executive,"SVP, Applications Development",Executive,EX3,56,25,246800,327000,407200,U26-1
+IT,IT-Executive,"SVP, Business Systems Analysis",Executive,EX3,56,25,246800,327000,407200,U26-1
+IT,IT-Executive,"SVP, Desktop Engineering",Executive,EX3,56,27,270900,359000,447000,U27-1
+IT,IT-Executive,"SVP, IT Operations",Executive,EX3,56,27,270900,359000,447000,U27-1
+IT,IT-Executive,"SVP, Enterprise Applications",Executive,EX3,56,25,246800,327000,407200,U26-1
+IT,IT-Executive,"SVP, System Administration ",Executive,EX3,56,27,270900,359000,447000,U27-1
+IT,IT-Executive,"SVP, System Integration",Executive,EX3,56,27,270900,359000,447000,U27-1
+IT,System Administration,System Administrator I,Technical Professional,TP1,39,9,55400,69300,83100,U9-1
+IT,System Administration,System Administrator II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+IT,System Administration,Sr System Administrator I,Technical Professional,TP3,41,13,83400,104200,125100,U13-1
+IT,System Administration,Sr System Administrator II,Technical Professional,TP4,42,15,100900,126100,151400,U15-1
+IT,System Administration,Principal System Administrator,Technical Professional,TP5,43,17,119800,149800,179700,U17-1
+IT,System Administration,Sr Principal System Administrator,Technical Professional,TP6,44,19,138400,176400,214500,U19-1
+IT,System Administration,"Manager, System Administration",Management,MG3,49,17,119800,149800,179700,U17-1
+IT,System Administration,"Sr Manager, System Administration",Management,MG4,50,18,126900,161800,196700,U18-1
+IT,System Administration,"Assc Director, System Administration",Management,MG4,50,18,126900,161800,196700,U18-1
+IT,System Administration,"Director, System Administration",Management,MG5,51,19,149800,191000,232200,U20-1
+IT,System Administration,"Sr Director, System Administration",Management,MG6,52,21,161600,206000,250500,U21-1
+IT,System Integration,System Integration Analyst  I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+IT,System Integration,System Integration Analyst  II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+IT,System Integration,Sr System Integration Analyst  I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+IT,System Integration,Sr System Integration Analyst  II,Technical Professional,TP4,42,17,119800,149800,179700,U17-1
+IT,System Integration,Principal System Integration Analyst ,Technical Professional,TP5,43,19,138400,176400,214500,U19-1
+IT,System Integration,Sr Principal System Integration Analyst ,Technical Professional,TP6,44,20,149800,191000,232200,U20-1
+IT,System Integration,"Manager, System Integration",Management,MG3,49,17,119800,149800,179700,U17-1
+IT,System Integration,"Sr Manager, System Integration",Management,MG4,50,19,138400,176400,214500,U19-1
+IT,System Integration,"Assc Director, System Integration",Management,MG4,50,19,138400,176400,214500,U19-1
+IT,System Integration,"Director, System Integration",Management,MG5,51,21,173100,225000,277000,U22-1
+IT,System Integration,"Sr Director, System Integration",Management,MG6,52,23,188500,245000,301600,U23-1
+IT,Vendor Management,IT Coordinator I,Technical Support,TS1,9,6,35300,44100,53000,U5-1
+IT,Vendor Management,IT Coordinator II,Technical Support,TS2,10,7,39400,49300,59100,U6-1
+IT,Vendor Management,Sr IT Coordinator I,Technical Support,TS3,11,8,44200,55300,66300,U7-1
+IT,Vendor Management,Sr IT Coordinator II,Technical Support,TS4,12,9,49500,61900,74300,U8-1
+Manufacturing,Machinists,Machinist I,Technical Support,TS1,9,4,31400,39300,47100,U4-1
+Manufacturing,Machinists,Machinist II,Technical Support,TS2,10,6,39400,49300,59100,U6-1
+Manufacturing,Machinists,Sr Machinist I,Technical Support,TS3,11,8,49500,61900,74300,U8-1
+Manufacturing,Machinists,Sr Machinist II,Technical Support,TS4,12,9,55400,69300,83100,U9-1
+Manufacturing,Machinists,"Supervisor, Machine Shop",Management,MG1,47,10,61500,76900,92300,U10-1
+Manufacturing,Machinists,"Sr Supervisor, Machine Shop",Management,MG2,48,13,83400,104200,125100,U13-1
+Manufacturing,Machinists,"Manager, Machine Shop",Management,MG3,49,14,91700,114600,137600,U14-1
+Manufacturing,Machinists,"Sr Manager, Machine Shop",Management,MG4,50,19,138400,176400,214500,U19-1
+Manufacturing,Machinists,"Assc Director, Machine Shop",Management,MG4,50,19,138400,176400,214500,U19-1
+Manufacturing,Machinists,"Director, Machine Shop",Management,MG5,51,21,161600,206000,250500,U21-1
+Manufacturing,Machinists,"Sr Director, Machine Shop",Management,MG6,52,,173100,225000,277000,U22-1
+Manufacturing,Model Makers,Model Maker I,Technical Support,TS1,9,5,35300,44100,53000,U5-1
+Manufacturing,Model Makers,Model Maker II,Technical Support,TS2,10,7,44200,55300,66300,U7-1
+Manufacturing,Model Makers,Sr Model Maker I,Technical Support,TS3,11,9,55400,69300,83100,U9-1
+Manufacturing,Model Makers,Sr Model Maker II,Technical Support,TS4,12,12,75800,94700,113700,U12-1
+Market Research,Market Intelligence,Market Intelligence Analyst,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Market Research,Market Intelligence,Sr Market Intelligence Analyst,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Market Research,Market Intelligence,Market Intelligence Manager,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Market Research,Market Intelligence,Sr Market Intelligence Manager,Business Professional,BP4,34,16,109900,137400,164900,U16-1
+Market Research,Market Intelligence,Principal Market Intelligence Analyst,Business Professional,BP5,35,19,138400,176400,214500,U19-1
+Market Research,Market Intelligence,Sr Principal Market Intelligence Analyst,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+Market Research,Market Intelligence,"Manager, Market Intelligence",Management,MG3,49,16,109900,137400,164900,U16-1
+Market Research,Market Intelligence,"Sr Manager, Market Intelligence",Management,MG4,50,19,138400,176400,214500,U19-1
+Market Research,Market Intelligence,"Assc Director, Market Intelligence",Management,MG4,50,19,138400,176400,214500,U19-1
+Market Research,Market Intelligence,"Director, Market Intelligence",Management,MG5,51,21,161600,206000,250500,U21-1
+Market Research,Market Intelligence,"Sr Director, Market Intelligence",Management,MG6,52,23,188500,245000,301600,U23-1
+Product Management,Advanced Tech Dev,Advanced Tech Dev Analyst,Business Professional,BP1,31,9,55400,69300,83100,U9-1
+Product Management,Advanced Tech Dev,Sr Advanced Tech Dev Analyst,Business Professional,BP2,32,11,68900,86100,103400,U11-1
+Product Management,Advanced Tech Dev,Advanced Tech Dev Manager,Business Professional,BP3,33,14,91700,114600,137600,U14-1
+Product Management,Advanced Tech Dev,Sr Advanced Tech Dev Manager,Business Professional,BP4,34,17,119800,149800,179700,U17-1
+Product Management,Advanced Tech Dev,Principal Advanced Tech Dev Manager,Business Professional,BP5,35,19,138400,176400,214500,U19-1
+Product Management,Advanced Tech Dev,Sr Principal Advanced Tech Dev Manager,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+Product Management,Advanced Tech Dev,"Manager, Advanced Tech Dev",Management,MG3,49,15,100900,126100,151400,U15-1
+Product Management,Advanced Tech Dev,"Sr Manager, Advanced Tech Dev",Management,MG4,50,18,126900,161800,196700,U18-1
+Product Management,Advanced Tech Dev,"Assc Director, Advanced Tech Dev",Management,MG4,50,18,126900,161800,196700,U18-1
+Product Management,Advanced Tech Dev,"Director, Advanced Tech Dev",Management,MG5,51,20,149800,191000,232200,U20-1
+Product Management,Advanced Tech Dev,"Sr Director, Advanced Tech Dev",Management,MG6,52,22,173100,225000,277000,U22-1
+Product Management,Product Management,Assciate Product Manager,Business Professional,BP1,31,9,55400,69300,83100,U9-1
+Product Management,Product Management,Sr Assciate Product Manager,Business Professional,BP2,32,11,68900,86100,103400,U11-1
+Product Management,Product Management,Product Manager ,Business Professional,BP3,33,14,91700,114600,137600,U14-1
+Product Management,Product Management,Sr Product Manager,Business Professional,BP4,34,17,119800,149800,179700,U17-1
+Product Management,Product Management,Principal Product Manager,Business Professional,BP5,35,19,138400,176400,214500,U19-1
+Product Management,Product Management,Sr Principal Product Manager,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+Product Management,Product Management,"Manager, Product Management",Management,MG3,49,15,100900,126100,151400,U15-1
+Product Management,Product Management,"Sr Manager, Product Management",Management,MG4,50,18,126900,161800,196700,U18-1
+Product Management,Product Management,"Assc Director, Product Management",Management,MG4,50,18,126900,161800,196700,U18-1
+Product Management,Product Management,"Director, Product Management",Management,MG5,51,20,149800,191000,232200,U20-1
+Product Management,Product Management,"Sr Director, Product Management",Management,MG6,52,22,173100,225000,277000,U22-1
+PMO,Project Management,Project Analyst 1,Business Support,BS1,4,4,31400,39300,47100,U4-1
+PMO,Project Management,Project Analyst 2,Business Support,BS2,5,6,39400,49300,59100,U6-1
+PMO,Project Management,Project Analyst 3,Business Support,BS3,6,8,49500,61900,74300,U8-1
+PMO,Project Management,Project Analyst 4,Business Support,BS4,7,10,61500,76900,92300,U10-1
+PMO,Project Management,Project Manager,Business Professional,BP1,31,10,61500,76900,92300,U10-1
+PMO,Project Management,Sr Project Manager,Business Professional,BP2,32,13,83400,104200,125100,U13-1
+PMO,Project Management,Program Manager,Business Professional,BP3,33,16,109900,137400,164900,U16-1
+PMO,Project Management,Sr Program Manager,Business Professional,BP4,34,18,126900,161800,196700,U18-1
+PMO,Project Management,Principal Program Manager,Business Professional,BP5,35,20,149800,191000,232200,U20-1
+PMO,Project Management,Sr Principal Program Manager,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+PMO,Project Management,"Manager, Program Management",Management,MG3,49,17,119800,149800,179700,U17-1
+PMO,Project Management,"Sr Manager, Program Management",Management,MG4,50,20,149800,191000,232200,U20-1
+PMO,Project Management,"Assc Director, Program Management",Management,MG4,50,20,149800,191000,232200,U20-1
+PMO,Project Management,"Director, Program Management",Management,MG5,51,22,173100,225000,277000,U22-1
+PMO,Project Management,"Sr Director, Program Management",Management,MG6,52,24,207700,270000,332300,U24-1
+PMO,Scrum Masters,Scrum Master I,Business Professional,BP1,31,10,61500,76900,92300,U10-1
+PMO,Scrum Masters,Scrum Master II,Business Professional,BP2,32,13,83400,104200,125100,U13-1
+PMO,Scrum Masters,Sr Scrum Master I,Business Professional,BP3,33,16,109900,137400,164900,U16-1
+PMO,Scrum Masters,Sr Scrum Master II,Business Professional,BP4,34,18,126900,161800,196700,U18-1
+PMO,Scrum Masters,Principal Scrum Master,Business Professional,BP5,35,20,149800,191000,232200,U20-1
+PMO,Scrum Masters,Sr Principal Scrum Master,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+PMO,Scrum Masters,"Manager, Scrum",Management,MG3,49,17,119800,149800,179700,U17-1
+PMO,Scrum Masters,"Sr Manager, Scrum",Management,MG4,50,20,149800,191000,232200,U20-1
+PMO,Scrum Masters,"Assc Director, Scrum",Management,MG4,50,20,149800,191000,232200,U20-1
+PMO,Scrum Masters,"Director, Scrum",Management,MG5,51,22,173100,225000,277000,U22-1
+PMO,Scrum Masters,"Sr Director, Scrum",Management,MG6,52,24,207700,270000,332300,U24-1
+Business Administration,Business Process Improvement,Business Process Improvement Analyst I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Business Administration,Business Process Improvement,Business Process Improvement Analyst II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Business Administration,Business Process Improvement,Business Process Improvement Analyst II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Business Administration,Business Process Improvement,Sr. Business Process Improvement Analyst I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Business Administration,Business Process Improvement,Sr. Business Process Improvement Analyst II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Business Administration,Business Process Improvement,Principal Business Process Improvement Analyst,Business Professional,BP5,35,17,119800,149800,179700,U17-1
+Business Administration,Business Process Improvement,Sr Principal Business Process Improvement Analyst,Business Professional,BP6,36,20,149800,191000,232200,U20-1
+Business Administration,Business Process Improvement,"Supervisor, Business Process Improvement",Management,MG1,47,11,68900,86100,103400,U11-1
+Business Administration,Business Process Improvement,"Sr Supervisor, Business Process Improvement",Management,MG2,48,14,91700,114600,137600,U14-1
+Business Administration,Business Process Improvement,"Manager, Business Process Improvement",Management,MG3,49,15,100900,126100,151400,U15-1
+Business Administration,Business Process Improvement,"Sr Manager, Business Process Improvement",Management,MG4,50,18,126900,161800,196700,U18-1
+Business Administration,Business Process Improvement,"Assc Director, Business Process Improvement",Management,MG4,50,18,126900,161800,196700,U18-1
+Business Administration,Business Process Improvement,"Director, Business Process Improvement",Management,MG5,51,20,149800,191000,232200,U20-1
+Business Administration,Business Process Improvement,"Sr Director, Business Process Improvement",Management,MG6,52,22,173100,225000,277000,U22-1
+Customer Support-Shared Services,Customer Support - Quality ,"Analyst 1, Quality",Business Professional,BP1,31,7,44200,55300,66300,U7-1
+Customer Support-Shared Services,Customer Support - Quality ,"Analyst 2, Quality",Business Professional,BP2,32,9,55400,69300,83100,U9-1
+Customer Support-Shared Services,Customer Support - Quality ,"Analyst 3, Quality",Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Customer Support-Shared Services,Customer Support - Quality ,"Analyst 4, Quality",Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Customer Support-Shared Services,Customer Support - Quality ,"Analyst 5, Quality",Business Professional,BP5,35,17,119800,149800,179700,U17-1
+Customer Support-Shared Services,Customer Support - Quality ,"Analyst 6, Quality",Business Professional,BP6,36,21,161600,206000,250500,U21-1
+Customer Support-Shared Services,Customer Support - Quality ,"Supervisor, Quality",Management,MG1,47,10,61500,76900,92300,U10-1
+Customer Support-Shared Services,Customer Support - Quality ,"Sr Supervisor, Quality",Management,MG2,48,10,68900,86100,103400,U11-1
+Customer Support-Shared Services,Customer Support - Quality ,"Manager, Quality",Management,MG3,49,12,83400,104200,125100,U13-1
+Customer Support-Shared Services,Customer Support - Quality ,"Sr Manager, Quality",Management,MG4,50,16,109900,137400,164900,U16-1
+Customer Support-Shared Services,Customer Support - Quality ,"Director, Quality",Management,MG5,51,19,138400,176400,214500,U19-1
+Customer Support-Shared Services,Customer Support - Quality ,"Sr Director, Customer Care Shared Services",Management,MG6,52,21,161600,206000,250500,U21-1
+Customer Support-Shared Services,Customer Support - Training,Trainer 1,Business Professional,BP1,31,7,49500,61900,74300,U8-1
+Customer Support-Shared Services,Customer Support - Training,Trainer 2,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Customer Support-Shared Services,Customer Support - Training,Trainer 3,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Customer Support-Shared Services,Customer Support - Training,Trainer 4,Business Professional,BP4,34,14,91700,114600,137600,U14-1
+Customer Support-Shared Services,Customer Support - Training,Trainer 5,Business Professional,BP5,35,17,119800,149800,179700,U17-1
+Customer Support-Shared Services,Customer Support - Training,Trainer 6,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+Customer Support-Shared Services,Customer Support - Training,"Supervisor, Training",Management,MG1,47,10,61500,76900,92300,U10-1
+Customer Support-Shared Services,Customer Support - Training,"Sr Supervisor, Training",Management,MG2,48,12,75800,94700,113700,U12-1
+Customer Support-Shared Services,Customer Support - Training,"Manager, Training",Management,MG3,49,14,91700,114600,137600,U14-1
+Customer Support-Shared Services,Customer Support - Training,"Sr Manager, Training",Management,MG4,50,17,119800,149800,179700,U17-1
+Customer Support-Shared Services,Customer Support - Training,"Director, Training",Management,MG5,51,19,138400,176400,214500,U19-1
+Customer Support-Shared Services,Customer Support - Training,"Sr Director, Training",Management,MG6,52,22,173100,225000,277000,U22-1
+Shared Services,Workforce Mgmt,"Analyst 1, Workforce Mgmt",Business Professional,BP1,31,7,49500,61900,74300,U8-1
+Shared Services,Workforce Mgmt,"Analyst 2, Workforce Mgmt",Business Professional,BP2,32,9,55400,69300,83100,U9-1
+Shared Services,Workforce Mgmt,"Analyst 3, Workforce Mgmt",Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Shared Services,Workforce Mgmt,"Analyst 4, Workforce Mgmt",Business Professional,BP4,34,14,91700,114600,137600,U14-1
+Shared Services,Workforce Mgmt,"Analyst 5, Workforce Mgmt",Business Professional,BP5,35,17,119800,149800,179700,U17-1
+Shared Services,Workforce Mgmt,"Analyst 6, Workforce Mgmt",Business Professional,BP6,36,19,138400,176400,214500,U19-1
+Shared Services,Workforce Mgmt,"Supervisor, Workforce Mgmt",Management,MG1,47,7,55400,69300,83100,U9-1
+Shared Services,Workforce Mgmt,"Sr Supervisor, Workforce Mgmt",Management,MG2,48,10,68900,86100,103400,U11-1
+Shared Services,Workforce Mgmt,"Manager, Workforce Mgmt",Management,MG3,49,13,75800,94700,113700,U12-1
+Shared Services,Workforce Mgmt,"Sr Manager, Workforce Mgmt",Management,MG4,50,16,109900,137400,164900,U16-1
+Shared Services,Workforce Mgmt,"Assc Director, Workforce Mgmt",Management,MG4,50,16,109900,137400,164900,U16-1
+Shared Services,Workforce Mgmt,"Director, Workforce Mgmt",Management,MG5,51,20,149800,191000,232200,U20-1
+Shared Services,Workforce Mgmt,"Sr Director, Workforce Mgmt",Management,MG6,52,22,173100,225000,277000,U22-1
+Strategic Planning & Corporate Development,Corporate Development,"Manager, Corporate Development",Management,MG3,49,17,119800,149800,179700,U17-1
+Strategic Planning & Corporate Development,Corporate Development,"Sr Manager, Corporate Development",Management,MG4,50,19,126900,161800,196700,U18-1
+Strategic Planning & Corporate Development,Corporate Development,"Assc Director, Corporate Development",Management,MG4,50,19,126900,161800,196700,U18-1
+Strategic Planning & Corporate Development,Corporate Development,"Director, Corporate Development",Management,MG5,51,20,149800,191000,232200,U20-1
+Strategic Planning & Corporate Development,Corporate Development,"Sr Director, Strategy & Corporate Development",Management,MG6,52,23,188500,245000,301600,U23-1
+Strategic Planning & Corporate Development,Strategy & Planning,Strategy Analyst,Business Professional,BP1,31,10,49500,61900,74300,U8-1
+Strategic Planning & Corporate Development,Strategy & Planning,Sr. Strategy Analyst,Business Professional,BP2,32,11,75800,94700,113700,U12-1
+Strategic Planning & Corporate Development,Strategy & Planning,Strategy Manager,Business Professional,BP3,33,13,100900,126100,151400,U15-1
+Strategic Planning & Corporate Development,Strategy & Planning,Sr. Strategy Manager,Business Professional,BP4,34,16,109900,137400,164900,U16-1
+Strategic Planning & Corporate Development,Strategy & Planning,Principal Strategy Manager,Business Professional,BP5,35,20,149800,191000,232200,U20-1
+Strategic Planning & Corporate Development,Strategy & Planning,Sr Principal Strategy Manager,Business Professional,BP6,36,24,207700,270000,332300,U24-1
+Strategic Planning & Corporate Development,Strategy & Planning,"Manager, Strategy & Planning",Management,MG3,49,17,119800,149800,179700,U17-1
+Strategic Planning & Corporate Development,Strategy & Planning,"Sr Manager, Strategy & Planning",Management,MG4,50,19,126900,161800,196700,U18-1
+Strategic Planning & Corporate Development,Strategy & Planning,"Assc Director, Strategy & Planning",Management,MG4,50,19,126900,161800,196700,U18-1
+Strategic Planning & Corporate Development,Strategy & Planning,"Director, Strategy & Planning",Management,MG5,51,20,149800,191000,232200,U20-1
+Strategic Planning & Corporate Development,Strategy & Planning,"Sr Director, Strategy & Planning",Management,MG6,52,23,188500,245000,301600,U23-1
+Legal,Regulatory Affairs,Regulatory Affairs Specialist I,Business Professional,BP1,31,9,55400,69300,83100,U9-1
+Legal,Regulatory Affairs,Regulatory Affairs Specialist II,Business Professional,BP2,32,11,68900,86100,103400,U11-1
+Legal,Regulatory Affairs,Sr Regulatory Affairs Specialist I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Legal,Regulatory Affairs,Sr Regulatory Affairs Specialist II,Business Professional,BP4,34,16,109900,137400,164900,U16-1
+Legal,Regulatory Affairs,Principal Regulatory Affairs Specialist,Business Professional,BP5,35,20,149800,191000,232200,U20-1
+Legal,Regulatory Affairs,Sr Principal Regulatory Affairs Specialist,Business Professional,BP6,36,22,173100,225000,277000,U22-1
+Legal,Regulatory Affairs,"Manager, Regulatory Affairs",Management,MG3,49,16,109900,137400,164900,U16-1
+Legal,Regulatory Affairs,"Sr Manager, Regulatory Affairs",Management,MG4,50,19,138400,176400,214500,U19-1
+Legal,Regulatory Affairs,"Assc Director, Regulatory Affairs",Management,MG4,50,19,138400,176400,214500,U19-1
+Legal,Regulatory Affairs,"Director,  Regulatory Affairs",Management,MG5,51,21,161600,206000,250500,U21-1
+Legal,Regulatory Affairs,"Sr Director,  Regulatory Affairs",Management,MG6,52,24,207700,270000,332300,U24-1
+Marketing,Business Intelligence,Business Intelligence Analyst I,Technical Professional,TP1,39,9,55400,69300,83100,U9-1
+Marketing,Business Intelligence,Business Intelligence Analyst II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+Marketing,Business Intelligence,Sr Business Intelligence Analyst I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Marketing,Business Intelligence,Sr Business Intelligence Analyst II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Marketing,Business Intelligence,Principal Business Intelligence Analyst,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+Marketing,Business Intelligence,Sr Principal Business Intelligence Analyst,Technical Professional,TP6,44,22,173100,225000,277000,U22-1
+Marketing,Business Intelligence,"Manager, Business Intelligence ",Management,MG3,49,16,109900,137400,164900,U16-1
+Marketing,Business Intelligence,"Sr Manager, Business Intelligence ",Management,MG4,50,19,138400,176400,214500,U19-1
+Marketing,Business Intelligence,"Assc Director, Business Intelligence ",Management,MG4,50,19,138400,176400,214500,U19-1
+Marketing,Business Intelligence,"Director, Business Intelligence ",Management,MG5,51,21,161600,206000,250500,U21-1
+Marketing,Business Intelligence,"Sr Director, Business Intelligence ",Management,MG6,52,24,207700,270000,332300,U24-1
+Quality,Document Control,Document Control Specialist I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Quality,Document Control,Document Control Specialist II,Business Professional,BP2,32,9,55400,69300,83100,U9-1
+Quality,Document Control,Sr Document Control Specialist I,Business Professional,BP3,33,11,68900,86100,103400,U11-1
+Quality,Document Control,Sr Document Control Specialist II,Business Professional,BP4,34,14,91700,114600,137600,U14-1
+Quality,Document Control,Principal Document Control Specialist,Business Professional,BP5,35,16,109900,137400,164900,U16-1
+Quality,Document Control,Sr Principal Document Control Specialist,Business Professional,BP6,36,17,119800,149800,179700,U17-1
+Quality,Document Control,"Manager, Document Control",Management,MG3,49,15,100900,126100,151400,U15-1
+Quality,Document Control,"Sr Manager, Document Control",Management,MG4,50,18,126900,161800,196700,U18-1
+Quality,Document Control,"Director, Document Control",Management,MG5,51,19,138400,176400,214500,U19-1
+Quality,Document Control,"Sr Director, Document Control",Management,MG6,52,21,161600,206000,250500,U21-1
+Quality,Quality Assurance Engineering,Quality Assurance Engineer I,Technical Professional,TP1,39,9,55400,69300,83100,U9-1
+Quality,Quality Assurance Engineering,Quality Assurance Engineer II,Technical Professional,TP2,40,11,68900,86100,103400,U11-1
+Quality,Quality Assurance Engineering,Sr Quality Assurance Engineer I,Technical Professional,TP3,41,13,83400,104200,125100,U13-1
+Quality,Quality Assurance Engineering,Sr Quality Assurance Engineer II,Technical Professional,TP4,42,15,100900,126100,151400,U15-1
+Quality,Quality Assurance Engineering,Principal Quality Assurance Engineer,Technical Professional,TP5,43,18,126900,161800,196700,U18-1
+Quality,Quality Assurance Engineering,Sr Principal Quality Assurance Engineer,Technical Professional,TP6,44,19,138400,176400,214500,U19-1
+Quality,Quality Assurance,Quality Assurance Assciate I,Business Support,BS1,4,4,31400,39300,47100,U4-1
+Quality,Quality Assurance,Quality Assurance Assciate II,Business Support,BS2,5,6,39400,49300,59100,U6-1
+Quality,Quality Assurance,Sr Quality Assurance Assciate I,Business Support,BS3,6,7,44200,55300,66300,U7-1
+Quality,Quality Assurance,Lead Quality Assurance Assciate,Business Support,BS4,7,8,49500,61900,74300,U8-1
+Quality,Quality Assurance,Quality Specialist I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Quality,Quality Assurance,Quality Specialist II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Quality,Quality Assurance,Sr Quality Specialist I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Quality,Quality Assurance,Sr Quality Specialist II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Quality,Quality Assurance,Principal Quality Specialist,Business Professional,BP5,35,18,126900,161800,196700,U18-1
+Quality,Quality Assurance,Sr Principal Quality Specialist,Business Professional,BP6,36,19,138400,176400,214500,U19-1
+Quality,Quality Assurance,"Supervisor, Quality Assurance",Management,MG1,47,10,61500,76900,92300,U10-1
+Quality,Quality Assurance,"Sr Supervisor, Quality Assurance",Management,MG2,48,13,83400,104200,125100,U13-1
+Quality,Quality Assurance,"Manager, Quality Assurance",Management,MG3,49,15,100900,126100,151400,U15-1
+Quality,Quality Assurance,"Sr Manager, Quality Assurance",Management,MG4,50,19,138400,176400,214500,U19-1
+Quality,Quality Assurance,"Director, Quality Assurance",Management,MG5,51,21,161600,206000,250500,U21-1
+Quality,Quality Assurance,"Sr Director, Quality Assurance",Management,MG6,52,23,188500,245000,301600,U23-1
+Quality,Quality Control,Quality Control Inspector I,Technical Support,TS1,9,4,31400,39300,47100,U4-1
+Quality,Quality Control,Quality Control Inspector II,Technical Support,TS2,10,5,39400,49300,59100,U6-1
+Quality,Quality Control,Sr Quality Control Inspector I,Technical Support,TS3,11,6,44200,55300,66300,U7-1
+Quality,Quality Control,Sr Quality Control Inspector II,Technical Support,TS4,12,8,49500,61900,74300,U8-1
+Quality,Quality Control,"Supervisor, Quality Control",Management,MG1,47,11,68900,86100,103400,U11-1
+Quality,Quality Control,"Sr Supervisor, Quality Control",Management,MG2,48,13,83400,104200,125100,U13-1
+Quality,Quality Control,Quality Technician I,Technical Support,TS1,9,5,35300,44100,53000,U5-1
+Quality,Quality Control,Quality Technician II,Technical Support,TS2,10,5,39400,49300,59100,U6-1
+Quality,Quality Control,Sr Quality Technician I,Technical Support,TS3,11,6,44200,55300,66300,U7-1
+Quality,Quality Control,Sr Quality Technician II,Technical Support,TS4,12,9,55400,69300,83100,U9-1
+Quality,Quality Control Engineering,Quality Control Engineer I,Technical Professional,TP1,39,8,49500,61900,74300,U8-1
+Quality,Quality Control Engineering,Quality Control Engineer II,Technical Professional,TP2,40,10,61500,76900,92300,U10-1
+Quality,Quality Control Engineering,Sr Quality Control Engineer I,Technical Professional,TP3,41,13,83400,104200,125100,U13-1
+Quality,Quality Control Engineering,Sr Quality Control Engineer II,Technical Professional,TP4,42,15,100900,126100,151400,U15-1
+Quality,Quality Control Engineering,Principal Quality Control Engineer,Technical Professional,TP5,43,17,119800,149800,179700,U17-1
+Quality,Quality Control Engineering,Sr Principal Quality Control Engineer,Technical Professional,TP6,44,17,126900,161800,196700,U18-1
+Quality,Quality Control Engineering,"Manager, Quality Control Engineering",Management,MG3,49,15,100900,126100,151400,U15-1
+Quality,Quality Control Engineering,"Sr Manager, Quality Control Engineering",Management,MG4,50,18,126900,161800,196700,U18-1
+Quality,Quality Control Engineering,"Director, Quality Control Engineering",Management,MG5,51,21,161600,206000,250500,U21-1
+Quality,Quality Control Engineering,"Sr Director, Quality Control Engineering",Management,MG6,52,22,173100,225000,277000,U22-1
+Quality,Quality Engineering,Quality Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Quality,Quality Engineering,Quality Engineer II,Technical Professional,TP2,40,12,75800,94700,113700,U12-1
+Quality,Quality Engineering,Sr Quality Engineer I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Quality,Quality Engineering,Sr Quality Engineer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Quality,Quality Engineering,Principal Quality Engineer,Technical Professional,TP5,43,17,119800,149800,179700,U17-1
+Quality,Quality Engineering,Sr Principal Quality Engineer,Technical Professional,TP6,44,19,138400,176400,214500,U19-1
+Quality,Quality Engineering,"Manager, Quality Engineering",Management,MG3,49,17,119800,149800,179700,U17-1
+Quality,Quality Engineering,"Sr Manager, Quality Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Quality,Quality Engineering,"Director, Quality Engineering",Management,MG5,51,21,161600,206000,250500,U21-1
+Quality,Quality Engineering,"Sr Director, Quality Engineering",Management,MG6,52,23,188500,245000,301600,U23-1
+Quality,Supplier Quality Engineering,Supplier Quality Engineer I,Technical Professional,TP1,39,10,61500,76900,92300,U10-1
+Quality,Supplier Quality Engineering,Supplier Quality Engineer II,Technical Professional,TP2,40,11,75800,94700,113700,U12-1
+Quality,Supplier Quality Engineering,Sr Supplier Quality Engineer I,Technical Professional,TP3,41,14,91700,114600,137600,U14-1
+Quality,Supplier Quality Engineering,Sr Supplier Quality Engineer II,Technical Professional,TP4,42,16,109900,137400,164900,U16-1
+Quality,Supplier Quality Engineering,Principal Supplier Quality Engineer,Technical Professional,TP5,43,19,138400,176400,214500,U19-1
+Quality,Supplier Quality Engineering,Sr Principal Supplier Quality Engineer,Technical Professional,TP6,44,21,161600,206000,250500,U21-1
+Quality,Supplier Quality Engineering,"Manager, Supplier Quality Engineering",Management,MG3,49,16,109900,137400,164900,U16-1
+Quality,Supplier Quality Engineering,"Sr Manager, Supplier Quality Engineering",Management,MG4,50,19,138400,176400,214500,U19-1
+Quality,Supplier Quality Engineering,"Director, Supplier Quality Engineering",Management,MG5,51,21,161600,206000,250500,U21-1
+Quality,Supplier Quality Engineering,"Sr Director, Supplier Quality Engineering",Management,MG6,52,23,188500,245000,301600,U23-1
+Quality,Quality Training,Quality Training Specialist I,Business Professional,BP1,31,9,55400,69300,83100,U9-1
+Quality,Quality Training,Quality Training Specialist II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Quality,Quality Training,Sr Quality Training Specialist I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Quality,Quality Training,Sr Quality Training Specialist II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Quality,Quality Training,Principal Quality Training Specialist,Business Professional,BP5,35,17,119800,149800,179700,U17-1
+Quality,Quality Training,Sr Principal Quality Training Specialist,Business Professional,BP6,36,,126900,161800,196700,U18-1
+Quality,Quality Training,"Manager, Quality Training",Management,MG3,49,16,109900,137400,164900,U16-1
+Quality,Quality Training,"Sr Manager, Quality Training",Management,MG4,50,18,126900,161800,196700,U18-1
+Quality,Quality Training,"Director, Quality Training",Management,MG5,51,22,173100,225000,277000,U22-1
+Quality,Quality Training,"Sr Director, Quality Training",Management,MG6,52,23,188500,245000,301600,U23-1
+Quality,Product Complaints,"Assciate I, GPMS",Business Support,BS1,4,3,28100,35100,42200,U3-1
+Quality,Product Complaints,"Assciate II, GPMS",Business Support,BS2,5,4,31400,39300,47100,U4-1
+Quality,Product Complaints,"Assciate III, GPMS",Business Support,BS3,6,5,35300,44100,53000,U5-1
+Quality,Product Complaints,"Lead Assciate, GPMS",Business Support,BS4,7,7,44200,55300,66300,U7-1
+Quality,Product Complaints,Product Surveillance Specialist I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Quality,Product Complaints,Product Surveillance Specialist II,Business Professional,BP2,32,10,55400,69300,83100,U9-1
+Quality,Product Complaints,Sr Product Surveillance Analyst I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Quality,Product Complaints,Sr Product Surveillance Analyst II,Business Professional,BP4,34,16,100900,126100,151400,U15-1
+Quality,Product Complaints,Principal Product Surveillance Analyst,Business Professional,BP5,35,18,126900,161800,196700,U18-1
+Quality,Product Complaints,Sr Principal Product Surveillance Analyst,Business Professional,BP6,36,19,138400,176400,214500,U19-1
+Quality,Product Complaints,"Supervisor, Global Post-Market Surveillance",Management,MG1,47,11,68900,86100,103400,U11-1
+Quality,Product Complaints,"Sr Supervisor, Global Post-Market Surveillance",Management,MG2,48,13,83400,104200,125100,U13-1
+Quality,Product Complaints,"Manager, Global Post-Market Surveillance",Management,MG3,49,15,100900,126100,151400,U15-1
+Quality,Product Complaints,"Sr Manager, Global Post-Market Surveillance",Management,MG4,50,18,126900,161800,196700,U18-1
+Quality,Product Complaints,"Director, Global Post-Market Surveillance",Management,MG5,51,20,149800,191000,232200,U20-1
+Quality,Product Complaints,"Sr Director, Global Post-Market Surveillance",Management,MG6,52,,161600,206000,250500,U21-1
+Quality,Product Compliance,Product Compliance Specialist I,Business Professional,BP1,31,9,55400,69300,83100,U9-1
+Quality,Product Compliance,Product Compliance Specialist II,Business Professional,BP2,32,11,68900,86100,103400,U11-1
+Quality,Product Compliance,Sr Product Compliance Specialist I,Business Professional,BP3,33,14,91700,114600,137600,U14-1
+Quality,Product Compliance,Sr Product Compliance Specialist II,Business Professional,BP4,34,16,109900,137400,164900,U16-1
+Quality,Product Compliance,Principal Product Compliance Specialist,Business Professional,BP5,35,20,149800,191000,232200,U20-1
+Quality,Product Compliance,Sr Principal Product Compliance Specialist,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+Quality,Product Compliance,"Manager, Product Compliance",Management,MG3,49,16,109900,137400,164900,U16-1
+Quality,Product Compliance,"Sr Manager, Product Compliance",Management,MG4,50,20,149800,191000,232200,U20-1
+Quality,Product Compliance,"Director, Product Compliance",Management,MG5,51,20,161600,206000,250500,U21-1
+Quality,Product Compliance,"Sr Director, Product Compliance",Management,MG6,52,22,173100,225000,277000,U22-1
+Human Resources,Talent Acquisition,Talent Acquisition Administrator I,Business Support,BS1,4,5,35300,44100,53000,U5-1
+Human Resources,Talent Acquisition,Talent Acquisition Administrator II,Business Support,BS2,5,6,39400,49300,59100,U6-1
+Human Resources,Talent Acquisition,Talent Acquisition Coordinator I,Business Support,BS3,6,7,44200,55300,66300,U7-1
+Human Resources,Talent Acquisition,Talent Acquisition Coordinator II,Business Support,BS4,7,8,49500,61900,74300,U8-1
+Human Resources,Talent Acquisition,Talent Acquisition Assciate,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Human Resources,Talent Acquisition,Talent Acquisition Partner,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Human Resources,Talent Acquisition,Sr Talent Acquisition Partner I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Human Resources,Talent Acquisition,Sr Talent Acquisition Partner II,Business Professional,BP4,34,16,109900,137400,164900,U16-1
+Human Resources,Talent Acquisition,Principal Talent Acquisition Partner,Business Professional,BP5,35,19,138400,176400,214500,U19-1
+Human Resources,Talent Acquisition,Sr Principal Talent Acquisition Partner,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+Human Resources,Talent Acquisition,"Manager, Talent Acquisition",Management,MG3,49,16,109900,137400,164900,U16-1
+Human Resources,Talent Acquisition,"Sr Manager, Talent Acquisition",Management,MG4,50,18,126900,161800,196700,U18-1
+Human Resources,Talent Acquisition,"Assc Director, Talent Acquisition",Management,MG4,50,18,126900,161800,196700,U18-1
+Human Resources,Talent Acquisition,"Director, Talent Acquisition",Management,MG5,51,20,149800,191000,232200,U20-1
+Human Resources,Talent Acquisition,"Sr Director, Talent Acquisition",Management,MG6,52,22,173100,225000,277000,U22-1
+Human Resources,Compensation,Compensation Analyst I,Business Professional,BP1,31,9,55400,69300,83100,U9-1
+Human Resources,Compensation,Compensation Analyst II,Business Professional,BP2,32,11,68900,86100,103400,U11-1
+Human Resources,Compensation,Sr Compensation Analyst I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Human Resources,Compensation,Sr Compensation Analyst II,Business Professional,BP4,34,16,109900,137400,164900,U16-1
+Human Resources,Compensation,Principal Compensation Analyst,Business Professional,BP5,35,18,126900,161800,196700,U18-1
+Human Resources,Compensation,Sr Principal Compensation Analyst,Business Professional,BP6,36,20,149800,191000,232200,U20-1
+Human Resources,Compensation,"Manager, Compensation",Management,MG3,49,16,109900,137400,164900,U16-1
+Human Resources,Compensation,"Sr Manager, Compensation",Management,MG4,50,19,138400,176400,214500,U19-1
+Human Resources,Compensation,"Director, Compensation",Management,MG5,51,21,161600,206000,250500,U21-1
+Human Resources,Compensation,"Sr Director, Compensation",Management,MG6,52,23,188500,245000,301600,U23-1
+Human Resources,Benefits,Benefits Administrator I,Business Support,BS1,4,4,31400,39300,47100,U4-1
+Human Resources,Benefits,Benefits Administrator II,Business Support,BS2,5,6,39400,49300,59100,U6-1
+Human Resources,Benefits,Benefits Coordinator I,Business Support,BS3,6,7,44200,55300,66300,U7-1
+Human Resources,Benefits,Benefits Coordinator II,Business Support,BS4,7,8,49500,61900,74300,U8-1
+Human Resources,Benefits,Benefits Analyst I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Human Resources,Benefits,Benefits Analyst II,Business Professional,BP2,32,9,55400,69300,83100,U9-1
+Human Resources,Benefits,Sr Benefits Analyst I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Human Resources,Benefits,Sr Benefits Analyst II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Human Resources,Benefits,Principal Benefits Analyst,Business Professional,BP5,35,18,126900,161800,196700,U18-1
+Human Resources,Benefits,Sr Principal Benefits Analyst,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+Human Resources,Benefits,"Manager, Benefits",Management,MG3,49,15,100900,126100,151400,U15-1
+Human Resources,Benefits,"Sr Manager, Benefits",Management,MG4,50,17,119800,149800,179700,U17-1
+Human Resources,Benefits,"Director, Benefits",Management,MG5,51,19,138400,176400,214500,U19-1
+Human Resources,Benefits,"Sr Director, Benefits",Management,MG6,52,22,173100,225000,277000,U22-1
+Human Resources,HR Technology,HR Technology Analyst I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Human Resources,HR Technology,HR Technology Analyst II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Human Resources,HR Technology,Sr HR Technology Analyst I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Human Resources,HR Technology,Sr HR Technology Analyst II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Human Resources,HR Technology,Principal HR Technology Analyst,Business Professional,BP5,35,18,126900,161800,196700,U18-1
+Human Resources,HR Technology,Sr Principal HR Technology Analyst,Business Professional,BP6,36,20,149800,191000,232200,U20-1
+Human Resources,HR Technology,"Manager, HR Technology",Management,MG3,49,16,109900,137400,164900,U16-1
+Human Resources,HR Technology,"Sr Manager, HR Technology",Management,MG4,50,18,126900,161800,196700,U18-1
+Human Resources,HR Technology,"Director, HR Technology",Management,MG5,51,20,149800,191000,232200,U20-1
+Human Resources,HR Technology,"Sr Director, HR Technology",Management,MG6,52,22,173100,225000,277000,U22-1
+Human Resources,L&D - Instructional Design,Instructional Designer I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Human Resources,L&D - Instructional Design,Instructional Designer II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Human Resources,L&D - Instructional Design,Sr Instructional Designer I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Human Resources,L&D - Instructional Design,Sr Instructional Designer II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Human Resources,L&D - Instructional Design,Principal Instructional Designer,Business Professional,BP5,35,17,119800,149800,179700,U17-1
+Human Resources,L&D - Instructional Design,Sr Principal Instructional Designer,Business Professional,BP6,36,20,149800,191000,232200,U20-1
+Human Resources,L&D - Trainers,Trainer I,Business Professional,BP1,31,3,44200,55300,66300,U7-1
+Human Resources,L&D - Trainers,Trainer II,Business Professional,BP2,32,9,55400,69300,83100,U9-1
+Human Resources,L&D - Trainers,Sr Trainer I,Business Professional,BP3,33,10,61500,76900,92300,U10-1
+Human Resources,L&D - Trainers,Sr Trainer II,Business Professional,BP4,34,13,83400,104200,125100,U13-1
+Human Resources,L&D - Trainers,Principal Trainer,Business Professional,BP5,35,17,119800,149800,179700,U17-1
+Human Resources,L&D - Trainers,Sr Principal Trainer,Business Professional,BP6,36,19,138400,176400,214500,U19-1
+Human Resources,Learning & Development,Learning & Development Specialist I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Human Resources,Learning & Development,Learning & Development Specialist II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Human Resources,Learning & Development,Sr Learning & Development Specialist I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Human Resources,Learning & Development,Sr Learning & Development Specialist II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Human Resources,Learning & Development,Principal Learning & Development Specialist,Business Professional,BP5,35,17,119800,149800,179700,U17-1
+Human Resources,Learning & Development,Sr Principal Learning & Development Specialist,Business Professional,BP6,36,20,149800,191000,232200,U20-1
+Human Resources,Learning & Development,"Manager, Learning & Development",Management,MG3,49,15,100900,126100,151400,U15-1
+Human Resources,Learning & Development,"Sr Manager, Learning & Development",Management,MG4,50,17,119800,149800,179700,U17-1
+Human Resources,Learning & Development,"Director, Learning & Org Development",Management,MG5,51,18,126900,161800,196700,U18-1
+Human Resources,Learning & Development,"Sr Director, Learning & Org Development",Management,MG6,52,21,161600,206000,250500,U21-1
+Human Resources,HR Business Partners,HR Generalist,Business Professional,BP1,31,10,61500,76900,92300,U10-1
+Human Resources,HR Business Partners,HR Business Partner,Business Professional,BP2,32,10,68900,86100,103400,U11-1
+Human Resources,HR Business Partners,Sr HR Business Partner I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Human Resources,HR Business Partners,Sr HR Business Partner II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Human Resources,HR Business Partners,Principal HR Business Partner,Business Professional,BP5,35,18,126900,161800,196700,U18-1
+Human Resources,HR Business Partners,Sr Principal HR Business Partner,Business Professional,BP6,36,20,149800,191000,232200,U20-1
+Human Resources,HR Business Partners,"Manager, HR Business Partner",Management,MG3,49,15,100900,126100,151400,U15-1
+Human Resources,HR Business Partners,"Sr Manager, HR Business Partner",Management,MG4,50,18,126900,161800,196700,U18-1
+Human Resources,HR Business Partners,"Director, HR Business Partner",Management,MG5,51,20,149800,191000,232200,U20-1
+Human Resources,HR Business Partners,"Sr Director, HR Business Partner",Management,MG6,52,23,188500,245000,301600,U23-1
+Human Resources,Human Resources-Executive,"VP, Human Resources",Executive,EX1,54,23,207700,270000,332300,U24-1
+Human Resources,Human Resources-Executive,"SVP, Human Resources",Executive,EX3,56,26,246800,327000,407200,U26-1
+Inside Sales,Pump Sales,"Specialist 1, Pump Sales - CAN",Sales Support,SS1,14,5,35300,44100,53000,U5-1
+Inside Sales,Pump Sales,"Specialist 2, Pump Sales - CAN",Sales Support,SS2,15,7,44200,55300,66300,U7-1
+Inside Sales,Pump Sales,"Specialist 3, Pump Sales - CAN",Sales Support,SS3,16,8,49500,61900,74300,U8-1
+Inside Sales,Pump Sales,"Specialist 4, Pump Sales - CAN",Sales Support,SS4,17,9,55400,69300,83100,U9-1
+Inside Sales,Pump Sales,"Supervisor, Pump Sales - CAN",Management,MG1,47,9,55400,69300,83100,U9-1
+Inside Sales,Pump Sales,"Sr Supervisor, Pump Sales - CAN",Management,MG2,48,10,61500,76900,92300,U10-1
+Inside Sales,Pump Sales,"Manager, Pump Sales - CAN",Management,MG3,49,12,75800,94700,113700,U12-1
+Inside Sales,Pump Sales,"Sr Manager, Pump Sales - CAN",Management,MG4,50,16,109900,137400,164900,U16-1
+Inside Sales,Pump Sales,"Director, Pump Sales - CAN",Management,MG5,51,16,119800,149800,179700,U17-1
+Inside Sales,Pump Sales,"Sr Director, Pump Sales - CAN",Management,MG6,52,20,149800,191000,232200,U20-1
+Customer Support,Sales Support - Supply Sales,"Specialist 1, Supply Sales - CAN",Business Support,BS1,4,4,31400,39300,47100,U4-1
+Customer Support,Sales Support - Supply Sales,"Specialist 2, Supply Sales - CAN",Business Support,BS2,5,6,39400,49300,59100,U6-1
+Customer Support,Sales Support - Supply Sales,"Specialist 3, Supply Sales - CAN",Business Support,BS3,6,7,44200,55300,66300,U7-1
+Customer Support,Sales Support - Supply Sales,"Specialist 4, Supply Sales - CAN",Business Support,BS4,7,7,49500,61900,74300,U8-1
+Customer Support,Sales Support - Supply Sales,"Supervisor, Supply Sales - CAN",Management,MG1,47,8,49500,61900,74300,U8-1
+Customer Support,Sales Support - Supply Sales,"Sr Supervisor, Supply Sales - CAN",Management,MG2,48,10,61500,76900,92300,U10-1
+Customer Support,Sales Support - Supply Sales,"Manager, Supply Sales - CAN",Management,MG3,49,12,75800,94700,113700,U12-1
+Customer Support,Sales Support - Supply Sales,"Sr Manager, Supply Sales - CAN",Management,MG4,50,14,91700,114600,137600,U14-1
+Customer Support,Sales Support - Supply Sales,"Director, Supply Sales - CAN",Management,MG5,51,,100900,126100,151400,U15-1
+Customer Support,Sales Support - Supply Sales,"Sr Director, Supply Sales - CAN",Management,MG6,52,,109900,137400,164900,U16-1
+Inside Sales,Inbound Pump Sales,"Specialist 1, Inbound Pump Sales - CAN",Sales Support,SS1,14,5,,,,U5-1
+Inside Sales,Inbound Pump Sales,"Specialist 2, Inbound Pump Sales - CAN",Sales Support,SS2,15,7,,,,U7-1
+Inside Sales,Inbound Pump Sales,"Specialist 3, Inbound Pump Sales - CAN",Sales Support,SS3,16,8,,,,U8-1
+Inside Sales,Inbound Pump Sales,"Specialist 4, Inbound Pump Sales - CAN",Sales Support,SS4,17,9,,,,U9-1
+Inside Sales,Inbound Pump Sales,"Supervisor, Inbound Pump Sales - CAN",Management,MG1,47,9,,,,U9-1
+Inside Sales,Inbound Pump Sales,"Sr Supervisor, Inbound Pump Sales - CAN",Management,MG2,48,10,,,,U10-1
+Inside Sales,Inbound Pump Sales,"Manager, Inbound Pump Sales - CAN",Management,MG3,49,12,,,,U12-1
+Inside Sales,Inbound Pump Sales,"Sr Manager, Inbound Pump Sales - CAN",Management,MG4,50,16,,,,U16-1
+Human Resources,Diversity & Inclusion,Diversity & Inclusion Specialist I,Diversity & Inclusion Specialist I,BP1,31,9,55400,69300,83100,U9-1
+Human Resources,Diversity & Inclusion,Diversity & Inclusion Specialist II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Human Resources,Diversity & Inclusion,Sr Diversity & Inclusion Program Manager I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Human Resources,Diversity & Inclusion,Sr Diversity & Inclusion Program Manager II,Business Professional,BP4,34,16,109900,137400,164900,U16-1
+Human Resources,Diversity & Inclusion,Principal Diversity & Inclusion Program Manager,Business Professional,BP5,35,19,138400,176400,214500,U19-1
+Human Resources,Diversity & Inclusion,Sr Principal Diversity & Inclusion Program Manager,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+Human Resources,Diversity & Inclusion,"Manager, Diversity & Inclusion",Management,MG3,49,16,109900,137400,164900,U16-1
+Human Resources,Diversity & Inclusion,"Sr Manager, Diversity & Inclusion",Management,MG4,50,19,138400,176400,214500,U19-1
+Human Resources,Diversity & Inclusion,"Director, Diversity & Inclusion",Management,MG5,51,21,161600,206000,250500,U21-1
+Human Resources,Diversity & Inclusion,"Sr Director, Diversity & Inclusion",Management,MG6,52,23,188500,245000,301600,U23-1
+Human Resources,HR Administration,HR Administrator I,Business Support,BS1,4,5,35300,44100,53000,U5-1
+Human Resources,HR Administration,HR Administrator II,Business Support,BS2,5,6,39400,49300,59100,U6-1
+Human Resources,HR Administration,HR Coordinator I,Business Support,BS3,6,8,49500,61900,74300,U8-1
+Human Resources,HR Administration,HR Coordinator II,Business Support,BS4,7,9,55400,69300,83100,U9-1
+Human Resources,HR Administration,"Supervisor, HR Administration",Management,MG1,47,10,61500,76900,92300,U10-1
+Human Resources,HR Administration,"Sr Supervisor, HR Administration",Management,MG2,48,13,83400,104200,125100,U13-1
+Human Resources,HR Administration,"Manager, HR Administration",Management,MG3,49,15,100900,126100,151400,U15-1
+Human Resources,HR Administration,"Sr Manager, HR Administration",Management,MG4,50,18,126900,161800,196700,U18-1
+Human Resources,HR Administration,"Director, HR Administration",Management,MG5,51,19,138400,176400,214500,U19-1
+Human Resources,HR Administration,"Sr Director, HR Administration",Management,MG6,52,23,188500,245000,301600,U23-1
+Facilities,Facilities Technicians,Facilities Technician I,Ops & Production Support,OS1,19,1,25100,31400,37700,U2-1
+Facilities,Facilities Technicians,Facilities Technician II,Ops & Production Support,OS2,20,7,44200,55300,66300,U7-1
+Facilities,Facilities Technicians,Facilities Technician III,Ops & Production Support,OS3,21,8,49500,61900,74300,U8-1
+Facilities,Facilities Technicians,Facilities Technician IV,Ops & Production Support,OS4,22,10,61500,76900,92300,U10-1
+Facilities,EHS,Environmental Health & Safety Coordinator I,Ops & Production Support,OS1,19,5,35300,44100,53000,U5-1
+Facilities,EHS,Environmental Health & Safety Coordinator II,Ops & Production Support,OS2,20,6,39400,49300,59100,U6-1
+Facilities,EHS,Sr Environmental Health & Safety Coordinator I,Ops & Production Support,OS3,21,8,49500,61900,74300,U8-1
+Facilities,EHS,Sr Environmental Health & Safety Coordinator II,Ops & Production Support,OS4,22,11,68900,86100,103400,U11-1
+Facilities,EHS,Environmental Health & Safety Specialist I,Business Professional,BP1,31,8,49500,61900,74300,U8-1
+Facilities,EHS,Environmental Health & Safety Specialist II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Facilities,EHS,Sr Environmental Health & Safety Specialist I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Facilities,EHS,Sr Environmental Health & Safety Specialist II,Business Professional,BP4,34,16,109900,137400,164900,U16-1
+Facilities,EHS,Principal Environmental Health & Safety Specialist,Business Professional,BP5,35,18,126900,161800,196700,U18-1
+Facilities,EHS,Sr Principal Environmental Health & Safety Specialist,Business Professional,BP6,36,20,149800,191000,232200,U20-1
+Facilities,EHS,"Supervisor, Environmental Health & Safety",Management,MG1,47,10,61500,76900,92300,U10-1
+Facilities,EHS,"Sr Supervisor, Environmental Health & Safety",Management,MG2,48,13,83400,104200,125100,U13-1
+Facilities,EHS,"Manager, Environmental Health & Safety",Management,MG3,49,14,91700,114600,137600,U14-1
+Facilities,EHS,"Sr Manager, Environmental Health & Safety",Management,MG4,50,17,119800,149800,179700,U17-1
+Facilities,EHS,"Director, Environmental Health & Safety",Management,MG5,51,19,138400,176400,214500,U19-1
+Facilities,EHS,"Sr Director, Environmental Health & Safety",Management,MG6,52,21,161600,206000,250500,U21-1
+Facilities,Facilities,Facilities Coordinator I,Ops & Production Support,OS1,19,4,31400,39300,47100,U4-1
+Facilities,Facilities,Facilities Coordinator II,Ops & Production Support,OS2,20,7,44200,55300,66300,U7-1
+Facilities,Facilities,Sr Facilities Coordinator I,Ops & Production Support,OS3,21,8,49500,61900,74300,U8-1
+Facilities,Facilities,Sr Facilities Coordinator II,Ops & Production Support,OS4,22,9,55400,69300,83100,U9-1
+Facilities,Facilities,Facilities Administrator I,Business Professional,BP1,31,9,55400,69300,83100,U9-1
+Facilities,Facilities,Facilities Administrator II,Business Professional,BP2,32,11,68900,86100,103400,U11-1
+Facilities,Facilities,Sr Facilities Administrator I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Facilities,Facilities,Sr Facilities Administrator II,Business Professional,BP4,34,15,100900,126100,151400,U15-1
+Facilities,Facilities,Principal Facilities Administrator,Business Professional,BP5,35,18,126900,161800,196700,U18-1
+Facilities,Facilities,Sr Principal Facilities Administrator,Business Professional,BP6,36,21,161600,206000,250500,U21-1
+Facilities,Facilities,"Supervisor, Facilities",Management,MG1,47,10,61500,76900,92300,U10-1
+Facilities,Facilities,"Sr Supervisor, Facilities",Management,MG2,48,14,91700,114600,137600,U14-1
+Facilities,Facilities,"Manager, Facilities",Management,MG3,49,15,100900,126100,151400,U15-1
+Facilities,Facilities,"Sr Manager, Facilities",Management,MG4,50,17,119800,149800,179700,U17-1
+Facilities,Facilities,"Director, Facilities",Management,MG5,51,20,149800,191000,232200,U20-1
+Facilities,Facilities,"Sr Director, Facilities",Management,MG6,52,23,188500,245000,301600,U23-1
+Supply Chain,Material Handlers,Material Handler Assciate I,Ops & Production Support,OS1,19,3,28100,35100,42200,U3-1
+Supply Chain,Material Handlers,Material Handler Assciate II,Ops & Production Support,OS2,20,4,31400,39300,47100,U4-1
+Supply Chain,Material Handlers,Material Handler Assciate III,Ops & Production Support,OS3,21,4,35300,44100,53000,U5-1
+Supply Chain,Material Handlers,Lead Material Handler Assciate,Ops & Production Support,OS4,22,6,39400,49300,59100,U6-1
+Supply Chain,Material Handlers,"Supervisor, Material Handler",Management,MG1,47,9,55400,69300,83100,U9-1
+Supply Chain,Material Handlers,"Sr Supervisor, Material Handler",Management,MG2,48,10,61500,76900,92300,U10-1
+Supply Chain,Material Handlers,"Manager, Material Handler",Management,MG3,49,13,83400,104200,125100,U13-1
+Supply Chain,Material Handlers,"Sr Manager, Material Handler",Management,MG4,50,15,100900,126100,151400,U15-1
+Supply Chain,Material Handlers,"Director, Material Handler",Management,MG5,51,18,126900,161800,196700,U18-1
+Supply Chain,Material Handlers,"Sr Director, Material Handler",Management,MG6,52,20,149800,191000,232200,U20-1
+Supply Chain,Logistics,Logistics & Distribution Analyst I,Business Professional,BP1,31,7,44200,55300,66300,U7-1
+Supply Chain,Logistics,Logistics & Distribution Analyst II,Business Professional,BP2,32,9,55400,69300,83100,U9-1
+Supply Chain,Logistics,Sr Logistics & Distribution Analyst I,Business Professional,BP3,33,12,75800,94700,113700,U12-1
+Supply Chain,Logistics,Sr Logistics & Distribution Analyst II,Business Professional,BP4,34,14,91700,114600,137600,U14-1
+Supply Chain,Logistics,Principal Logistics & Distribution Analyst,Business Professional,BP5,35,17,119800,149800,179700,U17-1
+Supply Chain,Logistics,Sr Principal Logistics & Distribution Analyst,Business Professional,BP6,36,19,138400,176400,214500,U19-1
+Supply Chain,Logistics,"Supervisor, Logistics",Management,MG1,47,9,55400,69300,83100,U9-1
+Supply Chain,Logistics,"Sr Supervisor, Logistics",Management,MG2,48,11,68900,86100,103400,U11-1
+Supply Chain,Logistics,"Manager, Logistics",Management,MG3,49,13,83400,104200,125100,U13-1
+Supply Chain,Logistics,"Sr Manager, Logistics",Management,MG4,50,17,119800,149800,179700,U17-1
+Supply Chain,Logistics,"Director, Logistics",Management,MG5,51,19,138400,176400,214500,U19-1
+Supply Chain,Logistics,"Sr Director, Logistics",Management,MG6,52,23,188500,245000,301600,U23-1
+Supply Chain,Supply Chain Management,Supply Chain Specialist I,Business Professional,BP1,31,9,55400,69300,83100,U9-1
+Supply Chain,Supply Chain Management,Supply Chain Specialist II,Business Professional,BP2,32,10,61500,76900,92300,U10-1
+Supply Chain,Supply Chain Management,Sr Supply Chain Specialist I,Business Professional,BP3,33,13,83400,104200,125100,U13-1
+Supply Chain,Supply Chain Management,Sr Supply Chain Specialist II,Business Professional,BP4,34,14,91700,114600,137600,U14-1
+Supply Chain,Supply Chain Management,Principal Supply Chain Specialist,Business Professional,BP5,35,17,119800,149800,179700,U17-1
+Supply Chain,Supply Chain Management,Sr Principal Supply Chain Specialist,Business Professional,BP6,36,19,138400,176400,214500,U19-1
+Supply Chain,Supply Chain Management,"Supervisor, Supply Chain Management",Management,MG1,47,11,68900,86100,103400,U11-1
+Supply Chain,Supply Chain Management,"Sr Supervisor, Supply Chain Management",Management,MG2,48,13,83400,104200,125100,U13-1
+Supply Chain,Supply Chain Management,"Manager, Supply Chain Management",Management,MG3,49,14,91700,114600,137600,U14-1
+Supply Chain,Supply Chain Management,"Sr Manager, Supply Chain Management",Management,MG4,50,17,119800,149800,179700,U17-1
+Supply Chain,Supply Chain Management,"Director, Supply Chain Management",Management,MG5,51,19,138400,176400,214500,U19-1
+Supply Chain,Supply Chain Management,"Sr Director, Supply Chain Management",Management,MG6,52,22,173100,225000,277000,U22-1
