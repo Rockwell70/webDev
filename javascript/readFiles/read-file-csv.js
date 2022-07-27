@@ -4,7 +4,7 @@ let data = [];
 const snippet = [];
 let counter = 0;
 
-fs.createReadStream("../../JobTitles.csv")
+fs.createReadStream("../../JobTitles.csv", {autoClose: true})
   .pipe(parse({ delimiter: ",", columns: true, ltrim:true }))
   .on("data", function (row) {
     data.push(row)
