@@ -13,7 +13,11 @@ fs.createReadStream("../../JobTitles.csv", {autoClose: true})
     console.log(error.message);
   })
   .on("end", function () {
+    let json = JSON.stringify(data);
+    fs.writeFileSync('JobTitles.json', json);
     console.log("parsed the csv data");
     console.log(data);
   });
+
+
 
